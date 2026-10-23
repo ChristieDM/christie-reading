@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-24T06:49+08:00",
+ "generated": "2026-10-24T06:50+08:00",
  "date": "2026-10-24",
  "label": "10月24日",
  "dayNo": 28,
@@ -21,7 +21,11 @@
    "title": "修自行车的兄弟，先想通了「控制」：莱特兄弟",
    "short": "莱特兄弟",
    "hook": "先找准最难的那个问题，再用最便宜的办法反复试：兄弟俩没有比别人更有钱，却比别人更早…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/330px-First_flight2.jpg",
+    "credit": "John T. Daniels · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:First_flight2.jpg"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "从开罐器到单手一拉：易拉罐的九十年",
    "short": "易拉罐的九十年",
    "hook": "1935 年，美国弗吉尼亚州里士满开始卖罐装啤酒，这是第一种商业化的罐装啤酒。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Beverage_can_pull-tab_and_stay-on-tab.JPG/330px-Beverage_can_pull-tab_and_stay-on-tab.JPG",
+    "credit": "三塚 · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Beverage_can_pull-tab_and_stay-on-tab.JPG"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "宽带在掉人，Peacock 在赚钱：Comcast 第三季的此消彼长",
    "short": "Comcast 第三季的此…",
    "hook": "看一家「老业务在缩、新业务在长」的公司，别只看总营收：先剔除剥离和一次性事件，再一…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Center_City_-_Comcast_Center_%2853587020610%29.jpg/330px-Center_City_-_Comcast_Center_%2853587020610%29.jpg",
+    "credit": "ajay_suresh · CC BY 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Center_City_-_Comcast_Center_(53587020610).jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "上议院点了头，政府不答应：查戈斯群岛的「三把锁」",
    "short": "查戈斯群岛的「三把锁」",
    "hook": "10 月 23 日，英国上议院二读通过了民主统一党韦尔勋爵提出的《英国主权保护（查…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Diego_Garcia_aerial_view_in_2013.JPG/330px-Diego_Garcia_aerial_view_in_2013.JPG",
+    "credit": "美国海军 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Diego_Garcia_aerial_view_in_2013.JPG"
+   }
   }
  ],
  "fallback": {
