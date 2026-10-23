@@ -1,81 +1,65 @@
 {
  "v": 1,
- "generated": "2026-10-23T22:30+08:00",
- "date": "2026-10-23",
- "label": "10月23日",
- "dayNo": 27,
- "weekday": "周五",
+ "generated": "2026-10-24T06:49+08:00",
+ "date": "2026-10-24",
+ "label": "10月24日",
+ "dayNo": 28,
+ "weekday": "周六",
  "pigment": {
-  "name": "花青",
-  "light": "#336384",
-  "lightInk": "#26506D",
-  "dark": "#79AACD"
+  "name": "靛蓝",
+  "light": "#364578",
+  "lightInk": "#2E3C6B",
+  "dark": "#8FA0D6"
  },
- "status": "已完成",
- "statusIcon": "✓",
+ "status": "待反馈",
+ "statusIcon": "◷",
  "pieces": [
   {
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "七十岁画出那道浪，临终还嫌没画好：葛饰北斋",
-   "short": "葛饰北斋",
-   "hook": "把「还没画好」当成继续练的理由，而不是放弃的理由：七十岁的那道浪，是六十多年天天动…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/330px-Tsunami_by_hokusai_19th_century.jpg",
-    "credit": "Katsushika Hokusai · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg"
-   }
+   "title": "修自行车的兄弟，先想通了「控制」：莱特兄弟",
+   "short": "莱特兄弟",
+   "hook": "先找准最难的那个问题，再用最便宜的办法反复试：兄弟俩没有比别人更有钱，却比别人更早…",
+   "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从手术台到手机里：一卷胶带的一百八十年",
-   "short": "一卷胶带的一百八十年",
-   "hook": "1845 年，美国外科医生霍勒斯·戴做出了压敏胶：不用水、不用加热，轻轻一按就能黏…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Duct-tape.jpg/330px-Duct-tape.jpg",
-    "credit": "Evan-Amos · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Duct-tape.jpg"
-   }
+   "title": "从开罐器到单手一拉：易拉罐的九十年",
+   "short": "易拉罐的九十年",
+   "hook": "1935 年，美国弗吉尼亚州里士满开始卖罐装啤酒，这是第一种商业化的罐装啤酒。",
+   "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "这一季是销量在拉车：雀巢第三季度的「量」和「价」",
-   "short": "雀巢第三季度的「量」和「价」",
-   "hook": "看消费公司的增长，要先把「量」和「价」拆开：靠涨价撑起来的增长更脆弱，靠多卖出来的…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/The_Nestl%C3%A9_Headquarters%2C_Vevey_%286110127652%29.jpg/330px-The_Nestl%C3%A9_Headquarters%2C_Vevey_%286110127652%29.jpg",
-    "credit": "Robert Cutts · CC BY 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Nestl%C3%A9_Headquarters,_Vevey_(6110127652).jpg"
-   }
+   "title": "宽带在掉人，Peacock 在赚钱：Comcast 第三季的此消彼长",
+   "short": "Comcast 第三季的此…",
+   "hook": "看一家「老业务在缩、新业务在长」的公司，别只看总营收：先剔除剥离和一次性事件，再一…",
+   "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "议会过了，总统那关还没过：波兰堕胎法改革的两张票",
-   "short": "波兰堕胎法改革的两张票",
-   "hook": "10 月 20 日，波兰众议院通过两项放宽堕胎限制的法案。",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Protest_of_All-Poland_Women%27s_Strike_in_Warsaw_%28October_30%2C_2020%29_05.jpg/330px-Protest_of_All-Poland_Women%27s_Strike_in_Warsaw_%28October_30%2C_2020%29_05.jpg",
-    "credit": "RoodyAlien · CC BY 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Protest_of_All-Poland_Women%27s_Strike_in_Warsaw_(October_30,_2020)_05.jpg"
-   }
+   "title": "上议院点了头，政府不答应：查戈斯群岛的「三把锁」",
+   "short": "查戈斯群岛的「三把锁」",
+   "hook": "10 月 23 日，英国上议院二读通过了民主统一党韦尔勋爵提出的《英国主权保护（查…",
+   "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
-   "place": "新西兰阿胡里里河的日出前",
-   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+   "place": "张家界天子山",
+   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
   },
-  "line": "山不催人，水也不赶路，你可以按自己的速度来。",
-  "by": ""
+  "line": "明月松间照，清泉石上流。",
+  "by": "王维《山居秋暝》"
  },
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e"
 }
