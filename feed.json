@@ -1,66 +1,82 @@
 {
  "v": 1,
- "generated": "2026-10-26T00:01+08:00",
- "date": "2026-10-25",
- "label": "10月25日",
- "dayNo": 29,
- "weekday": "周日",
+ "generated": "2026-10-26T06:45+08:00",
+ "date": "2026-10-26",
+ "label": "10月26日",
+ "dayNo": 30,
+ "weekday": "周一",
  "pigment": {
-  "name": "藕荷",
-  "light": "#7A5272",
-  "lightInk": "#684060",
-  "dark": "#C19ABA"
+  "name": "朱砂",
+  "light": "#AE3629",
+  "lightInk": "#972D21",
+  "dark": "#DC796A"
  },
- "status": "未完成",
- "statusIcon": "✕",
+ "status": "待反馈",
+ "statusIcon": "◷",
  "pieces": [
   {
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "在修道院后院数豌豆：孟德尔",
-   "short": "孟德尔",
-   "hook": "一个问题想不清时，就把它变成可以数的东西：孟德尔没有更好的显微镜，他赢在耐心地数了…",
-   "image": null
+   "title": "十一年、六次出海，失明了还是要去：鉴真",
+   "short": "鉴真",
+   "hook": "一件事值得做，就不必等条件齐了才出发：鉴真失败了五次、失去了视力，第六次还是上了船。",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Toshodaiji_Nara_Nara_pref37s3s4140.jpg/330px-Toshodaiji_Nara_Nara_pref37s3s4140.jpg",
+    "credit": "663highland · CC BY 2.5，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Toshodaiji_Nara_Nara_pref37s3s4140.jpg"
+   }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从玻璃板到拍立得：一卷胶卷的近两百年",
-   "short": "一卷胶卷的近两百年",
-   "hook": "1839 年达盖尔银版法公布，照相从此走进大众视野。",
-   "image": null
+   "title": "从转盘到薄如画框：一台电视机的一百年",
+   "short": "一台电视机的一百年",
+   "hook": "1926 年 1 月 26 日，苏格兰人贝尔德在伦敦为英国皇家研究院的约 40 位…",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Television_set_from_the_early_1950s_crop.jpg/330px-Television_set_from_the_early_1950s_crop.jpg",
+    "credit": "John Atherton · CC BY-SA 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Television_set_from_the_early_1950s_crop.jpg"
+   }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "检测多了，单价却降了：Quest 验血公司第三季的「量」与「价」",
-   "short": "Quest 验血公司第三季…",
-   "hook": "看一家公司的增长，要把「量」和「价」拆开看：单价下降不一定是坏消息，先问是谁拉低了…",
-   "image": null
+   "title": "年费比刷卡涨得快一倍：美国运通第三季的「会员费」账",
+   "short": "美国运通第三季的「会员费」账",
+   "hook": "看一张「会员卡」的生意，别只看收了多少会费，还要看为会费送出去的权益花了多少。",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/American_Express_Centurion_Lounge_-_JFK_Terminal_4_%2854984753321%29.jpg/330px-American_Express_Centurion_Lounge_-_JFK_Terminal_4_%2854984753321%29.jpg",
+    "credit": "ajay_suresh · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:American_Express_Centurion_Lounge_-_JFK_Terminal_4_(54984753321).jpg"
+   }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "两边都差几席：以色列大选前的最后民调",
-   "short": "以色列大选前的最后民调",
-   "hook": "以色列将在 10 月 27 日（周二）举行议会选举。",
-   "image": null
+   "title": "执政十四年后认输：塞尔维亚的「学生名单」赢了大选",
+   "short": "塞尔维亚的「学生名单」赢了…",
+   "hook": "10 月 25 日塞尔维亚议会选举投票结束约一个半小时后，武契奇就承认失败。",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_1.jpg/330px-House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_1.jpg",
+    "credit": "kallerna · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_1.jpg"
+   }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
-   "place": "斯洛文尼亚布莱德湖",
-   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
+   "place": "瑞典古尔马斯森林的山毛榉与蕨",
+   "credit": "W.carter · CC0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
   },
-  "line": "把手机放远一点，听一会儿窗外的声音。",
-  "by": ""
+  "line": "采菊东篱下，悠然见南山。",
+  "by": "陶渊明《饮酒·其五》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-25.jpg?v=1792920646",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-26.jpg?v=1792968142",
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e"
 }
