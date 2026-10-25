@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-25T17:31+08:00",
+ "generated": "2026-10-26T00:01+08:00",
  "date": "2026-10-25",
  "label": "10月25日",
  "dayNo": 29,
@@ -11,8 +11,8 @@
   "lightInk": "#684060",
   "dark": "#C19ABA"
  },
- "status": "待反馈",
- "statusIcon": "◷",
+ "status": "未完成",
+ "statusIcon": "✕",
  "pieces": [
   {
    "n": 1,
