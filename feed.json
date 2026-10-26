@@ -1,82 +1,82 @@
 {
  "v": 1,
- "generated": "2026-10-26T22:49+08:00",
- "date": "2026-10-26",
- "label": "10月26日",
- "dayNo": 30,
- "weekday": "周一",
+ "generated": "2026-10-27T06:42+08:00",
+ "date": "2026-10-27",
+ "label": "10月27日",
+ "dayNo": 31,
+ "weekday": "周二",
  "pigment": {
-  "name": "朱砂",
-  "light": "#AE3629",
-  "lightInk": "#972D21",
-  "dark": "#DC796A"
+  "name": "赭石",
+  "light": "#9E572E",
+  "lightInk": "#854723",
+  "dark": "#D49368"
  },
- "status": "已完成",
- "statusIcon": "✓",
+ "status": "待反馈",
+ "statusIcon": "◷",
  "pieces": [
   {
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "十一年、六次出海，失明了还是要去：鉴真",
-   "short": "鉴真",
-   "hook": "一件事值得做，就不必等条件齐了才出发：鉴真失败了五次、失去了视力，第六次还是上了船。",
+   "title": "孤儿院里学会针线，让女人脱下紧身衣：可可·香奈儿",
+   "short": "可可·香奈儿",
+   "hook": "别人眼里不上台面的材料，用对了地方就是新东西：针织布原本只做男士内衣，到了她手里成…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Toshodaiji_Nara_Nara_pref37s3s4140.jpg/330px-Toshodaiji_Nara_Nara_pref37s3s4140.jpg",
-    "credit": "663highland · CC BY 2.5，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Toshodaiji_Nara_Nara_pref37s3s4140.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Coco_Chanel_in_Los_Angeles%2C_1931_%28cropped%29.jpg/330px-Coco_Chanel_in_Los_Angeles%2C_1931_%28cropped%29.jpg",
+    "credit": "Los Angeles Times · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Coco_Chanel_in_Los_Angeles,_1931_(cropped).jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从转盘到薄如画框：一台电视机的一百年",
-   "short": "一台电视机的一百年",
-   "hook": "1926 年 1 月 26 日，苏格兰人贝尔德在伦敦为英国皇家研究院的约 40 位…",
+   "title": "能弹轻也能弹响的那架琴：钢琴的三百多年",
+   "short": "钢琴的三百多年",
+   "hook": "意大利佛罗伦萨的乐器匠克里斯托福里给美第奇家族做事。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Television_set_from_the_early_1950s_crop.jpg/330px-Television_set_from_the_early_1950s_crop.jpg",
-    "credit": "John Atherton · CC BY-SA 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Television_set_from_the_early_1950s_crop.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Pianoforte_Cristofori_1720.jpg/330px-Pianoforte_Cristofori_1720.jpg",
+    "credit": "Shriram Rajagopalan · CC BY 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Pianoforte_Cristofori_1720.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "年费比刷卡涨得快一倍：美国运通第三季的「会员费」账",
-   "short": "美国运通第三季的「会员费」账",
-   "hook": "看一张「会员卡」的生意，别只看收了多少会费，还要看为会费送出去的权益花了多少。",
+   "title": "营收翻了一倍多，现金却往外流：Bloom Energy 第三季的「先交货、后收钱」",
+   "short": "Bloom Energy …",
+   "hook": "看一家高速增长的公司，利润表之外还要看现金流量表：卖出去不等于收到钱。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/American_Express_Centurion_Lounge_-_JFK_Terminal_4_%2854984753321%29.jpg/330px-American_Express_Centurion_Lounge_-_JFK_Terminal_4_%2854984753321%29.jpg",
-    "credit": "ajay_suresh · CC BY 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:American_Express_Centurion_Lounge_-_JFK_Terminal_4_(54984753321).jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bloom_Energy_Servers_at_eBay_HQ.jpg/330px-Bloom_Energy_Servers_at_eBay_HQ.jpg",
+    "credit": "Bloom Energy · CC BY 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers_at_eBay_HQ.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "执政十四年后认输：塞尔维亚的「学生名单」赢了大选",
-   "short": "塞尔维亚的「学生名单」赢了…",
-   "hook": "10 月 25 日塞尔维亚议会选举投票结束约一个半小时后，武契奇就承认失败。",
+   "title": "第一轮落后、第二轮反超：卢拉第四次当选，对手不认输",
+   "short": "卢拉第四次当选，对手不认输",
+   "hook": "10 月 25 日巴西总统选举第二轮，80 岁的卢拉以 51.79%（约 6426…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_1.jpg/330px-House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_1.jpg",
-    "credit": "kallerna · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_1.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/23.10.2026_-_Debate_na_Globo_-_55608517678.jpg/330px-23.10.2026_-_Debate_na_Globo_-_55608517678.jpg",
+    "credit": "Lula Oficial · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:23.10.2026_-_Debate_na_Globo_-_55608517678.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
-   "place": "瑞典古尔马斯森林的山毛榉与蕨",
-   "credit": "W.carter · CC0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
+   "place": "沙斯塔山与锡斯基尤湖",
+   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
   },
-  "line": "采菊东篱下，悠然见南山。",
-  "by": "陶渊明《饮酒·其五》"
+  "line": "一盏灯、一杯茶、一页书，就是很好的一晚。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-26.jpg?v=1792968142",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-27.jpg?v=1793054459",
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e"
 }
