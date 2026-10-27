@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-27T06:42+08:00",
+ "generated": "2026-10-27T21:47+08:00",
  "date": "2026-10-27",
  "label": "10月27日",
  "dayNo": 31,
@@ -78,5 +78,11 @@
   "by": ""
  },
  "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-27.jpg?v=1793054459",
- "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e"
+ "teaser": "为什么营收翻倍，现金却在往外流？",
+ "teaserPiece": 3,
+ "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
+ "streak": {
+  "current": 1,
+  "best": 3
+ }
 }
