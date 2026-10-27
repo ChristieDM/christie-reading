@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-28T06:46+08:00",
+ "generated": "2026-10-28T06:50+08:00",
  "date": "2026-10-28",
  "label": "10月28日",
  "dayNo": 32,
@@ -21,7 +21,11 @@
    "title": "一只鹅颈瓶，和锁了几十年的实验笔记：路易·巴斯德",
    "short": "路易·巴斯德",
    "hook": "让结果自己说话：在「生命会不会自己冒出来」的争论里，鹅颈瓶靠的是一瓶不坏的肉汤，而…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit_%28cropped%29.jpg/330px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit_%28cropped%29.jpg",
+    "credit": "Paul Nadar · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit_(cropped).jpg"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "一擦就着，也曾要人命：火柴的两百年",
    "short": "火柴的两百年",
    "hook": "一种产品「便宜好用」的背后，可能有人在付代价：白磷火柴随处能擦，代价落在工人的下颌…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/J%C3%B6nk%C3%B6ping_Streicholzmuseum_Schachteln.jpg/330px-J%C3%B6nk%C3%B6ping_Streicholzmuseum_Schachteln.jpg",
+    "credit": "Clemensfranz · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:J%C3%B6nk%C3%B6ping_Streicholzmuseum_Schachteln.jpg"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "船舱坐满 112%，还要上岸开度假村：皇家加勒比第三季",
    "short": "皇家加勒比第三季",
    "hook": "看一家公司的增长，先拆开「卖得更多」和「卖得更贵」：皇家加勒比这一季营收涨 9%，…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Icon_of_the_Seas_%28cropped%29.jpg/330px-Icon_of_the_Seas_%28cropped%29.jpg",
+    "credit": "Chakie2 · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Icon_of_the_Seas_(cropped).jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "承认「苦难」，但不道歉、不赔偿：英国国王的加勒比之行与赔偿之争",
    "short": "英国国王的加勒比之行与赔偿…",
    "hook": "10 月 27 日，英国国王查尔斯三世抵达巴哈马，开始为期九天的加勒比之行，这是他…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/330px-King_Charles_III_%28July_2023%29.jpg",
+    "credit": "白宫 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:King_Charles_III_(July_2023).jpg"
+   }
   }
  ],
  "fallback": {
