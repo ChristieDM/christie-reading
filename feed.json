@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-10-27T21:47+08:00",
- "date": "2026-10-27",
- "label": "10月27日",
- "dayNo": 31,
- "weekday": "周二",
+ "generated": "2026-10-28T06:46+08:00",
+ "date": "2026-10-28",
+ "label": "10月28日",
+ "dayNo": 32,
+ "weekday": "周三",
  "pigment": {
-  "name": "赭石",
-  "light": "#9E572E",
-  "lightInk": "#854723",
-  "dark": "#D49368"
+  "name": "藤黄",
+  "light": "#C1911F",
+  "lightInk": "#7B5514",
+  "dark": "#E0BA52"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,71 +18,55 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "孤儿院里学会针线，让女人脱下紧身衣：可可·香奈儿",
-   "short": "可可·香奈儿",
-   "hook": "别人眼里不上台面的材料，用对了地方就是新东西：针织布原本只做男士内衣，到了她手里成…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Coco_Chanel_in_Los_Angeles%2C_1931_%28cropped%29.jpg/330px-Coco_Chanel_in_Los_Angeles%2C_1931_%28cropped%29.jpg",
-    "credit": "Los Angeles Times · CC BY 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Coco_Chanel_in_Los_Angeles,_1931_(cropped).jpg"
-   }
+   "title": "一只鹅颈瓶，和锁了几十年的实验笔记：路易·巴斯德",
+   "short": "路易·巴斯德",
+   "hook": "让结果自己说话：在「生命会不会自己冒出来」的争论里，鹅颈瓶靠的是一瓶不坏的肉汤，而…",
+   "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "能弹轻也能弹响的那架琴：钢琴的三百多年",
-   "short": "钢琴的三百多年",
-   "hook": "意大利佛罗伦萨的乐器匠克里斯托福里给美第奇家族做事。",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Pianoforte_Cristofori_1720.jpg/330px-Pianoforte_Cristofori_1720.jpg",
-    "credit": "Shriram Rajagopalan · CC BY 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Pianoforte_Cristofori_1720.jpg"
-   }
+   "title": "一擦就着，也曾要人命：火柴的两百年",
+   "short": "火柴的两百年",
+   "hook": "一种产品「便宜好用」的背后，可能有人在付代价：白磷火柴随处能擦，代价落在工人的下颌…",
+   "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "营收翻了一倍多，现金却往外流：Bloom Energy 第三季的「先交货、后收钱」",
-   "short": "Bloom Energy …",
-   "hook": "看一家高速增长的公司，利润表之外还要看现金流量表：卖出去不等于收到钱。",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bloom_Energy_Servers_at_eBay_HQ.jpg/330px-Bloom_Energy_Servers_at_eBay_HQ.jpg",
-    "credit": "Bloom Energy · CC BY 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers_at_eBay_HQ.jpg"
-   }
+   "title": "船舱坐满 112%，还要上岸开度假村：皇家加勒比第三季",
+   "short": "皇家加勒比第三季",
+   "hook": "看一家公司的增长，先拆开「卖得更多」和「卖得更贵」：皇家加勒比这一季营收涨 9%，…",
+   "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "第一轮落后、第二轮反超：卢拉第四次当选，对手不认输",
-   "short": "卢拉第四次当选，对手不认输",
-   "hook": "10 月 25 日巴西总统选举第二轮，80 岁的卢拉以 51.79%（约 6426…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/23.10.2026_-_Debate_na_Globo_-_55608517678.jpg/330px-23.10.2026_-_Debate_na_Globo_-_55608517678.jpg",
-    "credit": "Lula Oficial · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:23.10.2026_-_Debate_na_Globo_-_55608517678.jpg"
-   }
+   "title": "承认「苦难」，但不道歉、不赔偿：英国国王的加勒比之行与赔偿之争",
+   "short": "英国国王的加勒比之行与赔偿…",
+   "hook": "10 月 27 日，英国国王查尔斯三世抵达巴哈马，开始为期九天的加勒比之行，这是他…",
+   "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
-   "place": "沙斯塔山与锡斯基尤湖",
-   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
+   "place": "英格兰约克郡斯韦尔代尔",
+   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
   },
-  "line": "一盏灯、一杯茶、一页书，就是很好的一晚。",
-  "by": ""
+  "line": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
+  "by": "苏轼《定风波》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-27.jpg?v=1793054459",
- "teaser": "为什么营收翻倍，现金却在往外流？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-28.jpg?v=1793141114",
+ "teaser": "邮轮怎么能坐满 112% 的客？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
-  "current": 1,
+  "current": 0,
   "best": 3
  }
 }
