@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-28T07:27+08:00",
+ "generated": "2026-10-28T22:52+08:00",
  "date": "2026-10-28",
  "label": "10月28日",
  "dayNo": 32,
@@ -11,8 +11,8 @@
   "lightInk": "#7B5514",
   "dark": "#E0BA52"
  },
- "status": "待反馈",
- "statusIcon": "◷",
+ "status": "已完成",
+ "statusIcon": "✓",
  "pieces": [
   {
    "n": 1,
@@ -82,7 +82,7 @@
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
-  "current": 2,
+  "current": 3,
   "best": 3
  }
 }
