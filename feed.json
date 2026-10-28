@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-10-29T06:40+08:00",
+ "generated": "2026-10-29T06:41+08:00",
  "date": "2026-10-29",
  "label": "10月29日",
  "dayNo": 33,
@@ -21,7 +21,11 @@
    "title": "一台没造出来的机器，和写给它的「第一份程序」：埃达·洛夫莱斯",
    "short": "埃达·洛夫莱斯",
    "hook": "看出一件工具在眼前用途之外还能做什么：大家盯着「算数」，她写下了「处理符号」。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/330px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
+    "credit": "Antoine Claudet · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "从树汁到合成橡胶：一块口香糖的一百五十年",
    "short": "一块口香糖的一百五十年",
    "hook": "芬兰基耶里基出土过约 5000 年前的桦树皮焦油「口香糖」，上面还有牙印。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Wrigley%27s_Doublemint_Ad%2C_1928.jpg/330px-Wrigley%27s_Doublemint_Ad%2C_1928.jpg",
+    "credit": "箭牌公司广告（Don O'Brien 扫描上传） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Wrigley%27s_Doublemint_Ad,_1928.jpg"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "客人回来了，利润却薄了：Chipotle 第三季的「新店账」",
    "short": "Chipotle 第三季的…",
    "hook": "10 月 28 日美股收盘后，墨西哥卷饼连锁 Chipotle 公布第三季度业绩：…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Chipotle_Mexican_Grill_Brickell%2C_Miami_Florida_Sept_2022.jpg/330px-Chipotle_Mexican_Grill_Brickell%2C_Miami_Florida_Sept_2022.jpg",
+    "credit": "Phillip Pessar · CC BY 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Chipotle_Mexican_Grill_Brickell,_Miami_Florida_Sept_2022.jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "53、48、19：以色列大选后，谁都凑不齐 61 席",
    "short": "以色列大选后，谁都凑不齐 …",
    "hook": "10 月 27 日以色列举行议会选举。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/330px-Knesset_front_side_-_2022.jpg",
+    "credit": "Clema12 · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Knesset_front_side_-_2022.jpg"
+   }
   }
  ],
  "fallback": {
