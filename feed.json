@@ -1,85 +1,69 @@
 {
  "v": 1,
- "generated": "2026-10-28T22:52+08:00",
- "date": "2026-10-28",
- "label": "10月28日",
- "dayNo": 32,
- "weekday": "周三",
+ "generated": "2026-10-29T06:40+08:00",
+ "date": "2026-10-29",
+ "label": "10月29日",
+ "dayNo": 33,
+ "weekday": "周四",
  "pigment": {
-  "name": "藤黄",
-  "light": "#C1911F",
-  "lightInk": "#7B5514",
-  "dark": "#E0BA52"
+  "name": "石绿",
+  "light": "#38715E",
+  "lightInk": "#295B4B",
+  "dark": "#6BB398"
  },
- "status": "已完成",
- "statusIcon": "✓",
+ "status": "待反馈",
+ "statusIcon": "◷",
  "pieces": [
   {
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "一只鹅颈瓶，和锁了几十年的实验笔记：路易·巴斯德",
-   "short": "路易·巴斯德",
-   "hook": "让结果自己说话：在「生命会不会自己冒出来」的争论里，鹅颈瓶靠的是一瓶不坏的肉汤，而…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit_%28cropped%29.jpg/330px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit_%28cropped%29.jpg",
-    "credit": "Paul Nadar · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit_(cropped).jpg"
-   }
+   "title": "一台没造出来的机器，和写给它的「第一份程序」：埃达·洛夫莱斯",
+   "short": "埃达·洛夫莱斯",
+   "hook": "看出一件工具在眼前用途之外还能做什么：大家盯着「算数」，她写下了「处理符号」。",
+   "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "一擦就着，也曾要人命：火柴的两百年",
-   "short": "火柴的两百年",
-   "hook": "一种产品「便宜好用」的背后，可能有人在付代价：白磷火柴随处能擦，代价落在工人的下颌…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/J%C3%B6nk%C3%B6ping_Streicholzmuseum_Schachteln.jpg/330px-J%C3%B6nk%C3%B6ping_Streicholzmuseum_Schachteln.jpg",
-    "credit": "Clemensfranz · CC BY-SA 3.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:J%C3%B6nk%C3%B6ping_Streicholzmuseum_Schachteln.jpg"
-   }
+   "title": "从树汁到合成橡胶：一块口香糖的一百五十年",
+   "short": "一块口香糖的一百五十年",
+   "hook": "芬兰基耶里基出土过约 5000 年前的桦树皮焦油「口香糖」，上面还有牙印。",
+   "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "船舱坐满 112%，还要上岸开度假村：皇家加勒比第三季",
-   "short": "皇家加勒比第三季",
-   "hook": "看一家公司的增长，先拆开「卖得更多」和「卖得更贵」：皇家加勒比这一季营收涨 9%，…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Icon_of_the_Seas_%28cropped%29.jpg/330px-Icon_of_the_Seas_%28cropped%29.jpg",
-    "credit": "Chakie2 · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Icon_of_the_Seas_(cropped).jpg"
-   }
+   "title": "客人回来了，利润却薄了：Chipotle 第三季的「新店账」",
+   "short": "Chipotle 第三季的…",
+   "hook": "10 月 28 日美股收盘后，墨西哥卷饼连锁 Chipotle 公布第三季度业绩：…",
+   "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "承认「苦难」，但不道歉、不赔偿：英国国王的加勒比之行与赔偿之争",
-   "short": "英国国王的加勒比之行与赔偿…",
-   "hook": "10 月 27 日，英国国王查尔斯三世抵达巴哈马，开始为期九天的加勒比之行，这是他…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/330px-King_Charles_III_%28July_2023%29.jpg",
-    "credit": "白宫 · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:King_Charles_III_(July_2023).jpg"
-   }
+   "title": "53、48、19：以色列大选后，谁都凑不齐 61 席",
+   "short": "以色列大选后，谁都凑不齐 …",
+   "hook": "10 月 27 日以色列举行议会选举。",
+   "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
-   "place": "英格兰约克郡斯韦尔代尔",
-   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
+   "place": "新西兰阿胡里里河的日出前",
+   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
   },
-  "line": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
-  "by": "苏轼《定风波》"
+  "line": "慢一点也没关系，风会把云吹到该去的地方。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-28.jpg?v=1793141114",
- "teaser": "邮轮怎么能坐满 112% 的客？",
- "teaserPiece": 3,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-29.jpg?v=1793227158",
+ "teaser": "新加坡为什么不让卖口香糖？",
+ "teaserPiece": 2,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 3,
