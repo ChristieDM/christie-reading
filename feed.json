@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-10-29T06:44+08:00",
- "date": "2026-10-29",
- "label": "10月29日",
- "dayNo": 33,
- "weekday": "周四",
+ "generated": "2026-10-30T06:42+08:00",
+ "date": "2026-10-30",
+ "label": "10月30日",
+ "dayNo": 34,
+ "weekday": "周五",
  "pigment": {
-  "name": "石绿",
-  "light": "#38715E",
-  "lightInk": "#295B4B",
-  "dark": "#6BB398"
+  "name": "花青",
+  "light": "#336384",
+  "lightInk": "#26506D",
+  "dark": "#79AACD"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,71 +18,71 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "一台没造出来的机器，和写给它的「第一份程序」：埃达·洛夫莱斯",
-   "short": "埃达·洛夫莱斯",
-   "hook": "看出一件工具在眼前用途之外还能做什么：大家盯着「算数」，她写下了「处理符号」。",
+   "title": "交流电赢了，他却住进了旅馆：尼古拉·特斯拉",
+   "short": "尼古拉·特斯拉",
+   "hook": "好点子要变成大东西，离不开愿意长期出钱、也能承受等待的伙伴；只靠发明本身，走不了那…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/330px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png",
-    "credit": "Antoine Claudet · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/330px-Tesla_circa_1890.jpeg",
+    "credit": "Napoleon Sarony · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从树汁到合成橡胶：一块口香糖的一百五十年",
-   "short": "一块口香糖的一百五十年",
-   "hook": "芬兰基耶里基出土过约 5000 年前的桦树皮焦油「口香糖」，上面还有牙印。",
+   "title": "一台机器换一年收入：打字机的一百五十年",
+   "short": "打字机的一百五十年",
+   "hook": "有人估算，打字机前后被独立发明过 52 次。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Wrigley%27s_Doublemint_Ad%2C_1928.jpg/330px-Wrigley%27s_Doublemint_Ad%2C_1928.jpg",
-    "credit": "箭牌公司广告（Don O'Brien 扫描上传） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Wrigley%27s_Doublemint_Ad,_1928.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Sholes-Glidden_1874.jpg/330px-Sholes-Glidden_1874.jpg",
+    "credit": "Dr. Bernd Gross · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Sholes-Glidden_1874.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "客人回来了，利润却薄了：Chipotle 第三季的「新店账」",
-   "short": "Chipotle 第三季的…",
-   "hook": "10 月 28 日美股收盘后，墨西哥卷饼连锁 Chipotle 公布第三季度业绩：…",
+   "title": "卖家用发电机的公司，接到了亚马逊的大单：Generac 第三季",
+   "short": "Generac 第三季",
+   "hook": "Generac 1959 年创立于美国威斯康星州，起家时给西尔斯百货代工便携发电机。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Chipotle_Mexican_Grill_Brickell%2C_Miami_Florida_Sept_2022.jpg/330px-Chipotle_Mexican_Grill_Brickell%2C_Miami_Florida_Sept_2022.jpg",
-    "credit": "Phillip Pessar · CC BY 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Chipotle_Mexican_Grill_Brickell,_Miami_Florida_Sept_2022.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Generac_SB-375_commercial_generator_Ann_Arbor_Michigan.JPG/330px-Generac_SB-375_commercial_generator_Ann_Arbor_Michigan.JPG",
+    "credit": "Dwight Burdette · CC BY 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Generac_SB-375_commercial_generator_Ann_Arbor_Michigan.JPG"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "53、48、19：以色列大选后，谁都凑不齐 61 席",
-   "short": "以色列大选后，谁都凑不齐 …",
-   "hook": "10 月 27 日以色列举行议会选举。",
+   "title": "选票上有两个「丹·沙利文」：阿拉斯加参议员选举的同名之争",
+   "short": "阿拉斯加参议员选举的同名之争",
+   "hook": "阿拉斯加参议员选举 11 月 3 日投票，选票上有两个丹·沙利文：一位是共和党现任…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/330px-Knesset_front_side_-_2022.jpg",
-    "credit": "Clema12 · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Knesset_front_side_-_2022.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Alaska_State_Capitol%2C_Juneau.jpg/330px-Alaska_State_Capitol%2C_Juneau.jpg",
+    "credit": "Kevin Lam · CC BY-SA 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Alaska_State_Capitol,_Juneau.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
-   "place": "新西兰阿胡里里河的日出前",
-   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+   "place": "张家界天子山",
+   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
   },
-  "line": "慢一点也没关系，风会把云吹到该去的地方。",
-  "by": ""
+  "line": "人闲桂花落，夜静春山空。",
+  "by": "王维《鸟鸣涧》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-29.jpg?v=1793227158",
- "teaser": "新加坡为什么不让卖口香糖？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-30.jpg?v=1793313682",
+ "teaser": "1874 年的一台打字机，要卖多少钱？",
  "teaserPiece": 2,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
-  "current": 3,
+  "current": 0,
   "best": 3
  }
 }
