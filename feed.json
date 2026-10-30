@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-10-30T06:46+08:00",
- "date": "2026-10-30",
- "label": "10月30日",
- "dayNo": 34,
- "weekday": "周五",
+ "generated": "2026-10-31T06:45+08:00",
+ "date": "2026-10-31",
+ "label": "10月31日",
+ "dayNo": 35,
+ "weekday": "周六",
  "pigment": {
-  "name": "花青",
-  "light": "#336384",
-  "lightInk": "#26506D",
-  "dark": "#79AACD"
+  "name": "靛蓝",
+  "light": "#364578",
+  "lightInk": "#2E3C6B",
+  "dark": "#8FA0D6"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,68 +18,68 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "交流电赢了，他却住进了旅馆：尼古拉·特斯拉",
-   "short": "尼古拉·特斯拉",
-   "hook": "好点子要变成大东西，离不开愿意长期出钱、也能承受等待的伙伴；只靠发明本身，走不了那…",
+   "title": "不是最便宜的，要最好的：工程师布鲁内尔",
+   "short": "工程师布鲁内尔",
+   "hook": "敢按最高标准去做，也要早一点想清楚：别人会不会跟上。宽轨更快，最后还是输给了大家都…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/330px-Tesla_circa_1890.jpeg",
-    "credit": "Napoleon Sarony · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Robert_Howlett_-_Isambard_Kingdom_Brunel_and_the_launching_chains_of_the_Great_Eastern_-_Google_Art_Project.jpg/330px-Robert_Howlett_-_Isambard_Kingdom_Brunel_and_the_launching_chains_of_the_Great_Eastern_-_Google_Art_Project.jpg",
+    "credit": "Robert Howlett · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Robert_Howlett_-_Isambard_Kingdom_Brunel_and_the_launching_chains_of_the_Great_Eastern_-_Google_Art_Project.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "一台机器换一年收入：打字机的一百五十年",
-   "short": "打字机的一百五十年",
-   "hook": "有人估算，打字机前后被独立发明过 52 次。",
+   "title": "从「请帮我接」到揣进口袋：电话的一百五十年",
+   "short": "电话的一百五十年",
+   "hook": "1876 年 3 月 7 日，贝尔拿到美国电话专利，编号 174,465。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Sholes-Glidden_1874.jpg/330px-Sholes-Glidden_1874.jpg",
-    "credit": "Dr. Bernd Gross · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Sholes-Glidden_1874.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Women_at_Sunset_Telephone_switchboard%2C_ca_1905_%28MOHAI_6118%29.jpg/330px-Women_at_Sunset_Telephone_switchboard%2C_ca_1905_%28MOHAI_6118%29.jpg",
+    "credit": "Webster & Stevens · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Women_at_Sunset_Telephone_switchboard,_ca_1905_(MOHAI_6118).jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "卖家用发电机的公司，接到了亚马逊的大单：Generac 第三季",
-   "short": "Generac 第三季",
-   "hook": "Generac 1959 年创立于美国威斯康星州，起家时给西尔斯百货代工便携发电机。",
+   "title": "销量少了一成，利润翻了一倍：万圣节前的好时第三季",
+   "short": "万圣节前的好时第三季",
+   "hook": "好时 1894 年由米尔顿·好时创立，总部在宾夕法尼亚州的好时镇，旗下有好时、Ki…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Generac_SB-375_commercial_generator_Ann_Arbor_Michigan.JPG/330px-Generac_SB-375_commercial_generator_Ann_Arbor_Michigan.JPG",
-    "credit": "Dwight Burdette · CC BY 3.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Generac_SB-375_commercial_generator_Ann_Arbor_Michigan.JPG"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hershey_Kisses_packaging.jpg/330px-Hershey_Kisses_packaging.jpg",
+    "credit": "Mike Mozart · CC BY 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Hershey_Kisses_packaging.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "选票上有两个「丹·沙利文」：阿拉斯加参议员选举的同名之争",
-   "short": "阿拉斯加参议员选举的同名之争",
-   "hook": "阿拉斯加参议员选举 11 月 3 日投票，选票上有两个丹·沙利文：一位是共和党现任…",
+   "title": "一封写给伊朗强硬派的信：万斯能不能拦住下一轮空袭",
+   "short": "万斯能不能拦住下一轮空袭",
+   "hook": "据《华尔街日报》10 月 28 日首报，美国副总统万斯给伊朗最高国家安全委员会秘书…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Alaska_State_Capitol%2C_Juneau.jpg/330px-Alaska_State_Capitol%2C_Juneau.jpg",
-    "credit": "Kevin Lam · CC BY-SA 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Alaska_State_Capitol,_Juneau.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Strait_of_Hormuz_%28MODIS_2020-12-04%29.jpg/330px-Strait_of_Hormuz_%28MODIS_2020-12-04%29.jpg",
+    "credit": "MODIS Land Rapid Response Team, NASA GSFC · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
-   "place": "张家界天子山",
-   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
+   "place": "斯洛文尼亚布莱德湖",
+   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
   },
-  "line": "人闲桂花落，夜静春山空。",
-  "by": "王维《鸟鸣涧》"
+  "line": "今天读不完也不要紧，书页会一直等你。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-30.jpg?v=1793313682",
- "teaser": "1874 年的一台打字机，要卖多少钱？",
- "teaserPiece": 2,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-31.jpg?v=1793400256",
+ "teaser": "销量少了一成，好时利润怎么翻倍？",
+ "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
