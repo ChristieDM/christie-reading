@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-10-31T06:49+08:00",
- "date": "2026-10-31",
- "label": "10月31日",
- "dayNo": 35,
- "weekday": "周六",
+ "generated": "2026-11-01T06:45+08:00",
+ "date": "2026-11-01",
+ "label": "11月1日",
+ "dayNo": 36,
+ "weekday": "周日",
  "pigment": {
-  "name": "靛蓝",
-  "light": "#364578",
-  "lightInk": "#2E3C6B",
-  "dark": "#8FA0D6"
+  "name": "藕荷",
+  "light": "#7A5272",
+  "lightInk": "#684060",
+  "dark": "#C19ABA"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,51 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "不是最便宜的，要最好的：工程师布鲁内尔",
-   "short": "工程师布鲁内尔",
-   "hook": "敢按最高标准去做，也要早一点想清楚：别人会不会跟上。宽轨更快，最后还是输给了大家都…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Robert_Howlett_-_Isambard_Kingdom_Brunel_and_the_launching_chains_of_the_Great_Eastern_-_Google_Art_Project.jpg/330px-Robert_Howlett_-_Isambard_Kingdom_Brunel_and_the_launching_chains_of_the_Great_Eastern_-_Google_Art_Project.jpg",
-    "credit": "Robert Howlett · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Robert_Howlett_-_Isambard_Kingdom_Brunel_and_the_launching_chains_of_the_Great_Eastern_-_Google_Art_Project.jpg"
-   }
+   "title": "一个被俘的孩子，七下西洋：郑和",
+   "short": "郑和",
+   "hook": "出身没法选，可以选的是把交给自己的事做到极致：一个俘虏出身的宦官，把船队带到了几千…",
+   "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从「请帮我接」到揣进口袋：电话的一百五十年",
-   "short": "电话的一百五十年",
-   "hook": "1876 年 3 月 7 日，贝尔拿到美国电话专利，编号 174,465。",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Women_at_Sunset_Telephone_switchboard%2C_ca_1905_%28MOHAI_6118%29.jpg/330px-Women_at_Sunset_Telephone_switchboard%2C_ca_1905_%28MOHAI_6118%29.jpg",
-    "credit": "Webster & Stevens · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Women_at_Sunset_Telephone_switchboard,_ca_1905_(MOHAI_6118).jpg"
-   }
+   "title": "从冒烟的隧道到一天上千万人次：地铁的一百六十多年",
+   "short": "地铁的一百六十多年",
+   "hook": "1863 年 1 月 10 日，伦敦大都会铁路通车，是世界上第一条载客的地下铁路。",
+   "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "销量少了一成，利润翻了一倍：万圣节前的好时第三季",
-   "short": "万圣节前的好时第三季",
-   "hook": "好时 1894 年由米尔顿·好时创立，总部在宾夕法尼亚州的好时镇，旗下有好时、Ki…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Hershey_Kisses_packaging.jpg/330px-Hershey_Kisses_packaging.jpg",
-    "credit": "Mike Mozart · CC BY 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Hershey_Kisses_packaging.jpg"
-   }
+   "title": "炼油厂赚得比油井多：埃克森美孚第三季",
+   "short": "埃克森美孚第三季",
+   "hook": "10 月 30 日，埃克森美孚公布第三季财报：按会计准则净利润 154 亿美元，每…",
+   "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "一封写给伊朗强硬派的信：万斯能不能拦住下一轮空袭",
-   "short": "万斯能不能拦住下一轮空袭",
-   "hook": "据《华尔街日报》10 月 28 日首报，美国副总统万斯给伊朗最高国家安全委员会秘书…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Strait_of_Hormuz_%28MODIS_2020-12-04%29.jpg/330px-Strait_of_Hormuz_%28MODIS_2020-12-04%29.jpg",
-    "credit": "MODIS Land Rapid Response Team, NASA GSFC · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg"
-   }
+   "title": "大选前四天，法官叫停司法部：一道保护选举官员的禁令",
+   "short": "一道保护选举官员的禁令",
+   "hook": "10 月 30 日，加州北区联邦法官特丽娜·汤普森发出临时限制令，在全国范围内禁止…",
+   "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
-   "place": "斯洛文尼亚布莱德湖",
-   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
+   "place": "瑞典古尔马斯森林的山毛榉与蕨",
+   "credit": "W.carter · CC0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
   },
-  "line": "今天读不完也不要紧，书页会一直等你。",
-  "by": ""
+  "line": "江流天地外，山色有无中。",
+  "by": "王维《汉江临泛》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-10-31.jpg?v=1793400256",
- "teaser": "销量少了一成，好时利润怎么翻倍？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-01.jpg?v=1793486695",
+ "teaser": "埃克森的炼油厂，怎么赚过了油田？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
