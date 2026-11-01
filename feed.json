@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-01T06:48+08:00",
- "date": "2026-11-01",
- "label": "11月1日",
- "dayNo": 36,
- "weekday": "周日",
+ "generated": "2026-11-02T06:42+08:00",
+ "date": "2026-11-02",
+ "label": "11月2日",
+ "dayNo": 37,
+ "weekday": "周一",
  "pigment": {
-  "name": "藕荷",
-  "light": "#7A5272",
-  "lightInk": "#684060",
-  "dark": "#C19ABA"
+  "name": "朱砂",
+  "light": "#AE3629",
+  "lightInk": "#972D21",
+  "dark": "#DC796A"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,52 +18,52 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "一个被俘的孩子，七下西洋：郑和",
-   "short": "郑和",
-   "hook": "出身没法选，可以选的是把交给自己的事做到极致：一个俘虏出身的宦官，把船队带到了几千…",
+   "title": "印出了圣经，却丢了作坊：古腾堡",
+   "short": "古腾堡",
+   "hook": "一个想法能不能改变世界，往往看能不能把一串零件配成整套流程；古腾堡输了官司，他配好…",
    "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从冒烟的隧道到一天上千万人次：地铁的一百六十多年",
-   "short": "地铁的一百六十多年",
-   "hook": "1863 年 1 月 10 日，伦敦大都会铁路通车，是世界上第一条载客的地下铁路。",
+   "title": "从儿子的三轮车到一年二十多亿条：轮胎的一百八十年",
+   "short": "轮胎的一百八十年",
+   "hook": "早年的天然橡胶天热发黏、天冷变脆。",
    "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "炼油厂赚得比油井多：埃克森美孚第三季",
-   "short": "埃克森美孚第三季",
-   "hook": "10 月 30 日，埃克森美孚公布第三季财报：按会计准则净利润 154 亿美元，每…",
+   "title": "利润创新高，现金一年流出 424 亿美元：亚马逊第三季",
+   "short": "亚马逊第三季",
+   "hook": "10 月 29 日，亚马逊公布截至 9 月 30 日的第三季财报：营收 2019 …",
    "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "大选前四天，法官叫停司法部：一道保护选举官员的禁令",
-   "short": "一道保护选举官员的禁令",
-   "hook": "10 月 30 日，加州北区联邦法官特丽娜·汤普森发出临时限制令，在全国范围内禁止…",
+   "title": "投票前两天，她转身支持了对手：密歇根参议员选举的一场「倒戈」",
+   "short": "密歇根参议员选举的一场「倒…",
+   "hook": "美国中期选举 11 月 3 日投票。",
    "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
-   "place": "瑞典古尔马斯森林的山毛榉与蕨",
-   "credit": "W.carter · CC0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
+   "place": "沙斯塔山与锡斯基尤湖",
+   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
   },
-  "line": "江流天地外，山色有无中。",
-  "by": "王维《汉江临泛》"
+  "line": "先深呼吸一次，再翻开下一页。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-01.jpg?v=1793486695",
- "teaser": "埃克森的炼油厂，怎么赚过了油田？",
- "teaserPiece": 3,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-02.jpg?v=1793572923",
+ "teaser": "印出了圣经，古腾堡怎么反倒破产了？",
+ "teaserPiece": 1,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
