@@ -21,7 +21,11 @@
    "title": "印出了圣经，却丢了作坊：古腾堡",
    "short": "古腾堡",
    "hook": "一个想法能不能改变世界，往往看能不能把一串零件配成整套流程；古腾堡输了官司，他配好…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/330px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+    "credit": "NYC Wanderer（Kevin Eng） · CC BY-SA 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "从儿子的三轮车到一年二十多亿条：轮胎的一百八十年",
    "short": "轮胎的一百八十年",
    "hook": "早年的天然橡胶天热发黏、天冷变脆。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Michelin_Poster_1898.jpg/330px-Michelin_Poster_1898.jpg",
+    "credit": "O'Galop · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Michelin_Poster_1898.jpg"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "利润创新高，现金一年流出 424 亿美元：亚马逊第三季",
    "short": "亚马逊第三季",
    "hook": "10 月 29 日，亚马逊公布截至 9 月 30 日的第三季财报：营收 2019 …",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Amazon_AWS_us-west-2_beach_AZ.jpg/330px-Amazon_AWS_us-west-2_beach_AZ.jpg",
+    "credit": "Tedder · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazon_AWS_us-west-2_beach_AZ.jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "投票前两天，她转身支持了对手：密歇根参议员选举的一场「倒戈」",
    "short": "密歇根参议员选举的一场「倒…",
    "hook": "美国中期选举 11 月 3 日投票。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Haley_Stevens_portrait_%28118th_Congress%29.jpg/330px-Haley_Stevens_portrait_%28118th_Congress%29.jpg",
+    "credit": "美国众议院 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Haley_Stevens_portrait_(118th_Congress).jpg"
+   }
   }
  ],
  "fallback": {
