@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-02T06:44+08:00",
- "date": "2026-11-02",
- "label": "11月2日",
- "dayNo": 37,
- "weekday": "周一",
+ "generated": "2026-11-03T06:43+08:00",
+ "date": "2026-11-03",
+ "label": "11月3日",
+ "dayNo": 38,
+ "weekday": "周二",
  "pigment": {
-  "name": "朱砂",
-  "light": "#AE3629",
-  "lightInk": "#972D21",
-  "dark": "#DC796A"
+  "name": "赭石",
+  "light": "#9E572E",
+  "lightInk": "#854723",
+  "dark": "#D49368"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "印出了圣经，却丢了作坊：古腾堡",
-   "short": "古腾堡",
-   "hook": "一个想法能不能改变世界，往往看能不能把一串零件配成整套流程；古腾堡输了官司，他配好…",
+   "title": "拆掉一个水泵把手：约翰·斯诺和他的霍乱地图",
+   "short": "约翰·斯诺和他的霍乱地图",
+   "hook": "证据不一定要等到完美的解释。斯诺不知道病菌是什么，但他把「谁喝了哪里的水」数清楚了…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/330px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
-    "credit": "NYC Wanderer（Kevin Eng） · CC BY-SA 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Snow-cholera-map-1.jpg/330px-Snow-cholera-map-1.jpg",
+    "credit": "John Snow · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从儿子的三轮车到一年二十多亿条：轮胎的一百八十年",
-   "short": "轮胎的一百八十年",
-   "hook": "早年的天然橡胶天热发黏、天冷变脆。",
+   "title": "第一盏只亮了 24 天：红绿灯的一百五十多年",
+   "short": "红绿灯的一百五十多年",
+   "hook": "有记载显示，1722 年伦敦桥就派了三名警员指挥过桥的车流。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Michelin_Poster_1898.jpg/330px-Michelin_Poster_1898.jpg",
-    "credit": "O'Galop · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Michelin_Poster_1898.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Michigan_%26_Griswold_circa_1920.jpg/330px-Michigan_%26_Griswold_circa_1920.jpg",
+    "credit": "底特律公共图书馆伯顿历史收藏（作者不详） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Michigan_%26_Griswold_circa_1920.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "利润创新高，现金一年流出 424 亿美元：亚马逊第三季",
-   "short": "亚马逊第三季",
-   "hook": "10 月 29 日，亚马逊公布截至 9 月 30 日的第三季财报：营收 2019 …",
+   "title": "企业客户第一次超过政府：Palantir 第三季",
+   "short": "Palantir 第三季",
+   "hook": "Palantir 做数据分析软件，长期以来，美国政府、军方和情报机构是它最主要的客…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Amazon_AWS_us-west-2_beach_AZ.jpg/330px-Amazon_AWS_us-west-2_beach_AZ.jpg",
-    "credit": "Tedder · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Amazon_AWS_us-west-2_beach_AZ.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Palantir_2022.jpg/330px-Palantir_2022.jpg",
+    "credit": "Rathfelder · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Palantir_2022.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "投票前两天，她转身支持了对手：密歇根参议员选举的一场「倒戈」",
-   "short": "密歇根参议员选举的一场「倒…",
-   "hook": "美国中期选举 11 月 3 日投票。",
+   "title": "第一位民选女总统，投票的人不到三成：保加利亚总统决选",
+   "short": "保加利亚总统决选",
+   "hook": "11 月 1 日，保加利亚总统选举第二轮投票。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Haley_Stevens_portrait_%28118th_Congress%29.jpg/330px-Haley_Stevens_portrait_%28118th_Congress%29.jpg",
-    "credit": "美国众议院 · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Haley_Stevens_portrait_(118th_Congress).jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/President_Iliana_Iotova_%28cropped%29.jpg/330px-President_Iliana_Iotova_%28cropped%29.jpg",
+    "credit": "保加利亚总统府 · CC BY 2.5 bg，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:President_Iliana_Iotova_(cropped).jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
-   "place": "沙斯塔山与锡斯基尤湖",
-   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
+   "place": "英格兰约克郡斯韦尔代尔",
+   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
   },
-  "line": "先深呼吸一次，再翻开下一页。",
-  "by": ""
+  "line": "行到水穷处，坐看云起时。",
+  "by": "王维《终南别业》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-02.jpg?v=1793572923",
- "teaser": "印出了圣经，古腾堡怎么反倒破产了？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-03.jpg?v=1793659361",
+ "teaser": "伦敦啤酒厂的工人，为何没染上霍乱？",
  "teaserPiece": 1,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
