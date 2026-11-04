@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-04T06:46+08:00",
- "date": "2026-11-04",
- "label": "11月4日",
- "dayNo": 39,
- "weekday": "周三",
+ "generated": "2026-11-05T06:40+08:00",
+ "date": "2026-11-05",
+ "label": "11月5日",
+ "dayNo": 40,
+ "weekday": "周四",
  "pigment": {
-  "name": "藤黄",
-  "light": "#C1911F",
-  "lightInk": "#7B5514",
-  "dark": "#E0BA52"
+  "name": "石绿",
+  "light": "#38715E",
+  "lightInk": "#295B4B",
+  "dark": "#6BB398"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,68 +18,52 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "一根锥子夺走了光，他用六个点还给了所有人：路易·布莱叶",
-   "short": "路易·布莱叶",
-   "hook": "好的发明常常是做减法：巴比耶给了他「凸点」的想法，布莱叶把 12 个点砍成 6 个…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Louis_Braille.jpg/330px-Louis_Braille.jpg",
-    "credit": "佚名（1925 年印本） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Louis_Braille.jpg"
-   }
+   "title": "他拍下妻子的手骨，却不肯为 X 射线申请专利：威廉·伦琴",
+   "short": "威廉·伦琴",
+   "hook": "遇到看不懂的现象，先别急着解释，先反复验证：伦琴把自己关在实验室几个星期，把能想到…",
+   "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "寄信的人先付一便士：信件邮政的一百八十多年",
-   "short": "信件邮政的一百八十多年",
-   "hook": "19 世纪 30 年代的英国，邮费按路程远近和信纸张数计算，通常要 4 便士以上，…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Penny_black.jpg/330px-Penny_black.jpg",
-    "credit": "英国邮政总局（General Post Office） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Penny_black.jpg"
-   }
+   "title": "从罗马万神殿到一年 38 亿吨：水泥的两千年",
+   "short": "水泥的两千年",
+   "hook": "古罗马人把石灰和波佐利出产的火山灰混合，做成能在水下硬化的混凝土。",
+   "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "营收创新高，自由现金流却少了六成多：AMD 第三季",
-   "short": "AMD 第三季",
-   "hook": "AMD 第三季营收 133.8 亿美元，比去年同期增长 45%，创历史新高；数据中…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/AMD_CEO_Lisa_Su_speaking_at_ORNL_2019-05-07.jpg/330px-AMD_CEO_Lisa_Su_speaking_at_ORNL_2019-05-07.jpg",
-    "credit": "Genevieve Martin（橡树岭国家实验室 OLCF） · CC BY 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:AMD_CEO_Lisa_Su_speaking_at_ORNL_2019-05-07.jpg"
-   }
+   "title": "店里卖了 380 亿美元，账上只记 72 亿：麦当劳第三季",
+   "short": "麦当劳第三季",
+   "hook": "麦当劳第三季营收 71.6 亿美元，比去年同期只多 1%，低于分析师预期的约 72…",
+   "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "投票站陆续关门，结果还没出来：美国中期选举投票日的几组数字",
-   "short": "美国中期选举投票日的几组数字",
-   "hook": "美东时间 11 月 3 日是美国中期选举投票日：众议院全部 435 席、参议院 3…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%22I_Voted%22_sticker%3B_2026_New_York_State_elections.jpg/330px-%22I_Voted%22_sticker%3B_2026_New_York_State_elections.jpg",
-    "credit": "lurkingherern · CC BY 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:%22I_Voted%22_sticker;_2026_New_York_State_elections.jpg"
-   }
+   "title": "参议院 54 席、众议院过半：民主党拿下国会后，华盛顿的两年",
+   "short": "民主党拿下国会后，华盛顿的…",
+   "hook": "美国中期选举结果基本揭晓：民主党同时拿下参众两院。",
+   "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
-   "place": "新西兰阿胡里里河的日出前",
-   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+   "place": "张家界天子山",
+   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
   },
-  "line": "山不催人，水也不赶路，你可以按自己的速度来。",
-  "by": ""
+  "line": "明月松间照，清泉石上流。",
+  "by": "王维《山居秋暝》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-04.jpg?v=1793745963",
- "teaser": "盲文为什么只有六个点，不是十二个？",
- "teaserPiece": 1,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-05.jpg?v=1793832008",
+ "teaser": "麦当劳卖了380亿美元，为何营收只有72亿？",
+ "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
