@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-11-05T06:40+08:00",
+ "generated": "2026-11-05T06:43+08:00",
  "date": "2026-11-05",
  "label": "11月5日",
  "dayNo": 40,
@@ -21,7 +21,11 @@
    "title": "他拍下妻子的手骨，却不肯为 X 射线申请专利：威廉·伦琴",
    "short": "威廉·伦琴",
    "hook": "遇到看不懂的现象，先别急着解释，先反复验证：伦琴把自己关在实验室几个星期，把能想到…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Wilhelm_R%C3%B6ntgen_1900_Portrait_%283x4_cropped%29.jpg/330px-Wilhelm_R%C3%B6ntgen_1900_Portrait_%283x4_cropped%29.jpg",
+    "credit": "佚名（约 1900 年照片） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Wilhelm_R%C3%B6ntgen_1900_Portrait_(3x4_cropped).jpg"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "从罗马万神殿到一年 38 亿吨：水泥的两千年",
    "short": "水泥的两千年",
    "hook": "古罗马人把石灰和波佐利出产的火山灰混合，做成能在水下硬化的混凝土。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pantheon_%28Rome%29%2C_Dome_interior.jpg/330px-Pantheon_%28Rome%29%2C_Dome_interior.jpg",
+    "credit": "Wilfredor · CC0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome),_Dome_interior.jpg"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "店里卖了 380 亿美元，账上只记 72 亿：麦当劳第三季",
    "short": "麦当劳第三季",
    "hook": "麦当劳第三季营收 71.6 亿美元，比去年同期只多 1%，低于分析师预期的约 72…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/McDonald%27s_in_Indianapolis_-_Everett_03.jpg/330px-McDonald%27s_in_Indianapolis_-_Everett_03.jpg",
+    "credit": "Valerie Everett · CC BY-SA 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_in_Indianapolis_-_Everett_03.jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "参议院 54 席、众议院过半：民主党拿下国会后，华盛顿的两年",
    "short": "民主党拿下国会后，华盛顿的…",
    "hook": "美国中期选举结果基本揭晓：民主党同时拿下参众两院。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/330px-US_Capitol_west_side.JPG",
+    "credit": "Martin Falbisoner · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG"
+   }
   }
  ],
  "fallback": {
