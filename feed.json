@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-11-06T06:45+08:00",
+ "generated": "2026-11-06T06:46+08:00",
  "date": "2026-11-06",
  "label": "11月6日",
  "dayNo": 41,
@@ -21,7 +21,11 @@
    "title": "她给还没造出来的机器写了程序：艾达·洛夫莱斯",
    "short": "艾达·洛夫莱斯",
    "hook": "先把「机器能做什么」讲清楚，比争论「谁先写了哪一行」更重要：艾达的注把分析机从算盘…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/330px-Ada_Lovelace_portrait.jpg",
+    "credit": "阿尔弗雷德·爱德华·沙龙（Alfred Edward Chalon） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "没有安全钳，就没有摩天楼：电梯的一百七十多年",
    "short": "电梯的一百七十多年",
    "hook": "罗马建筑师维特鲁威记载，阿基米德约在公元前 236 年造过升降装置；罗马斗兽场约有…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Elisha_OTIS_1854.jpg/330px-Elisha_OTIS_1854.jpg",
+    "credit": "佚名（1854 年演示版画） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Elisha_OTIS_1854.jpg"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "一部《奥德赛》撑起纪录季：IMAX 第三季",
    "short": "IMAX 第三季",
    "hook": "IMAX 公布公司史上最好的单季业绩：营收 1.746 亿美元（约合表述中的 1.…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Interior_of_IMAX_cinema_in_Lahore_3.jpg/330px-Interior_of_IMAX_cinema_in_Lahore_3.jpg",
+    "credit": "Shahzaib Damn Cruze · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_IMAX_cinema_in_Lahore_3.jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "认罪减到法定最低刑：黄之锋被判串谋勾结外国势力十年",
    "short": "黄之锋被判串谋勾结外国势力…",
    "hook": "2026 年 11 月 5 日，香港高等法院裁定黄之锋（黄之锋 / Joshua …",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Queensway_at_the_High_Court_%28Hong_Kong%29.jpg/330px-Queensway_at_the_High_Court_%28Hong_Kong%29.jpg",
+    "credit": "Mk2010 · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Queensway_at_the_High_Court_(Hong_Kong).jpg"
+   }
   }
  ],
  "fallback": {
