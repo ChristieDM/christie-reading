@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-05T22:12+08:00",
- "date": "2026-11-05",
- "label": "11月5日",
- "dayNo": 40,
- "weekday": "周四",
+ "generated": "2026-11-06T06:45+08:00",
+ "date": "2026-11-06",
+ "label": "11月6日",
+ "dayNo": 41,
+ "weekday": "周五",
  "pigment": {
-  "name": "石绿",
-  "light": "#38715E",
-  "lightInk": "#295B4B",
-  "dark": "#6BB398"
+  "name": "花青",
+  "light": "#336384",
+  "lightInk": "#26506D",
+  "dark": "#79AACD"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,51 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "他拍下妻子的手骨，却不肯为 X 射线申请专利：威廉·伦琴",
-   "short": "威廉·伦琴",
-   "hook": "遇到看不懂的现象，先别急着解释，先反复验证：伦琴把自己关在实验室几个星期，把能想到…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Wilhelm_R%C3%B6ntgen_1900_Portrait_%283x4_cropped%29.jpg/330px-Wilhelm_R%C3%B6ntgen_1900_Portrait_%283x4_cropped%29.jpg",
-    "credit": "佚名（约 1900 年照片） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Wilhelm_R%C3%B6ntgen_1900_Portrait_(3x4_cropped).jpg"
-   }
+   "title": "她给还没造出来的机器写了程序：艾达·洛夫莱斯",
+   "short": "艾达·洛夫莱斯",
+   "hook": "先把「机器能做什么」讲清楚，比争论「谁先写了哪一行」更重要：艾达的注把分析机从算盘…",
+   "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从罗马万神殿到一年 38 亿吨：水泥的两千年",
-   "short": "水泥的两千年",
-   "hook": "「水泥」的英文 cement，可以追溯到古罗马人说的 opus caementic…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Pantheon_%28Rome%29%2C_Dome_interior.jpg/330px-Pantheon_%28Rome%29%2C_Dome_interior.jpg",
-    "credit": "Wilfredor · CC0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome),_Dome_interior.jpg"
-   }
+   "title": "没有安全钳，就没有摩天楼：电梯的一百七十多年",
+   "short": "电梯的一百七十多年",
+   "hook": "罗马建筑师维特鲁威记载，阿基米德约在公元前 236 年造过升降装置；罗马斗兽场约有…",
+   "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "店里卖了 380 亿美元，账上只记 72 亿：麦当劳第三季",
-   "short": "麦当劳第三季",
-   "hook": "麦当劳第三季营收 71.6 亿美元，比去年同期只多 1%，低于分析师预期的约 72…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/McDonald%27s_in_Indianapolis_-_Everett_03.jpg/330px-McDonald%27s_in_Indianapolis_-_Everett_03.jpg",
-    "credit": "Valerie Everett · CC BY-SA 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_in_Indianapolis_-_Everett_03.jpg"
-   }
+   "title": "一部《奥德赛》撑起纪录季：IMAX 第三季",
+   "short": "IMAX 第三季",
+   "hook": "IMAX 公布公司史上最好的单季业绩：营收 1.746 亿美元（约合表述中的 1.…",
+   "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "参议院 54 席、众议院过半：民主党拿下国会后，华盛顿的两年",
-   "short": "民主党拿下国会后，华盛顿的…",
-   "hook": "美国中期选举结果基本揭晓：民主党同时拿下参众两院。",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/US_Capitol_west_side.JPG/330px-US_Capitol_west_side.JPG",
-    "credit": "Martin Falbisoner · CC BY-SA 3.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG"
-   }
+   "title": "认罪减到法定最低刑：黄之锋被判串谋勾结外国势力十年",
+   "short": "黄之锋被判串谋勾结外国势力…",
+   "hook": "2026 年 11 月 5 日，香港高等法院裁定黄之锋（黄之锋 / Joshua …",
+   "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
-   "place": "张家界天子山",
-   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
+   "place": "斯洛文尼亚布莱德湖",
+   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
   },
-  "line": "明月松间照，清泉石上流。",
-  "by": "王维《山居秋暝》"
+  "line": "把手机放远一点，听一会儿窗外的声音。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-05.jpg?v=1793887913",
- "teaser": "麦当劳卖了380亿美元，为何营收只有72亿？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-06.jpg?v=1793918702",
+ "teaser": "《奥德赛》为何撑起IMAX纪录季？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
