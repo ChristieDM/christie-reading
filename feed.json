@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-06T23:53+08:00",
- "date": "2026-11-06",
- "label": "11月6日",
- "dayNo": 41,
- "weekday": "周五",
+ "generated": "2026-11-07T06:37+08:00",
+ "date": "2026-11-07",
+ "label": "11月7日",
+ "dayNo": 42,
+ "weekday": "周六",
  "pigment": {
-  "name": "花青",
-  "light": "#336384",
-  "lightInk": "#26506D",
-  "dark": "#79AACD"
+  "name": "靛蓝",
+  "light": "#364578",
+  "lightInk": "#2E3C6B",
+  "dark": "#8FA0D6"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,68 +18,52 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "她给还没造出来的机器写了程序：艾达·洛夫莱斯",
-   "short": "艾达·洛夫莱斯",
-   "hook": "先把「机器能做什么」讲清楚，比争论「谁先写了哪一行」更重要：艾达的注把分析机从算盘…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/330px-Ada_Lovelace_portrait.jpg",
-    "credit": "阿尔弗雷德·爱德华·沙龙（Alfred Edward Chalon） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg"
-   }
+   "title": "把护照发给没有国家的人：弗里乔夫·南森",
+   "short": "弗里乔夫·南森",
+   "hook": "先解决「你是谁、你能不能过境」，再谈安置：南森把身份文件做成可执行的国际工具，而不…",
+   "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "没有安全钳，就没有摩天楼：电梯的一百七十多年",
-   "short": "电梯的一百七十多年",
-   "hook": "罗马建筑师维特鲁威记载，阿基米德约在公元前 236 年造过升降装置；罗马斗兽场约有…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Elisha_OTIS_1854.jpg/330px-Elisha_OTIS_1854.jpg",
-    "credit": "佚名（1854 年演示版画） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Elisha_OTIS_1854.jpg"
-   }
+   "title": "石英浪潮差点灭了瑞士表：从危机到机械复兴",
+   "short": "从危机到机械复兴",
+   "hook": "二战后瑞士机械表一度占全球约一半市场。",
+   "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "一部《奥德赛》撑起纪录季：IMAX 第三季",
-   "short": "IMAX 第三季",
-   "hook": "IMAX 公布公司史上最好的单季业绩：营收 1.746 亿美元（约合表述中的 1.…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Interior_of_IMAX_cinema_in_Lahore_3.jpg/330px-Interior_of_IMAX_cinema_in_Lahore_3.jpg",
-    "credit": "Shahzaib Damn Cruze · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_IMAX_cinema_in_Lahore_3.jpg"
-   }
+   "title": "预订涨两成，利润却像腰斩：Uber 第三季",
+   "short": "Uber 第三季",
+   "hook": "Uber 第三季 Gross Bookings 598 亿美元（+20%），营收 …",
+   "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "认罪减到法定最低刑：黄之锋被判串谋勾结外国势力十年",
-   "short": "黄之锋被判串谋勾结外国势力…",
-   "hook": "2026 年 11 月 5 日，香港高等法院裁定黄之锋（Joshua Wong）「…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Queensway_at_the_High_Court_%28Hong_Kong%29.jpg/330px-Queensway_at_the_High_Court_%28Hong_Kong%29.jpg",
-    "credit": "Mk2010 · CC BY-SA 3.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Queensway_at_the_High_Court_(Hong_Kong).jpg"
-   }
+   "title": "数字银行塌了，总统也倒下：巴拉圭佩尼亚去职",
+   "short": "巴拉圭佩尼亚去职",
+   "hook": "2026 年 11 月 5 日，巴拉圭总统圣地亚哥·佩尼亚（Santiago Pe…",
+   "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
-   "place": "斯洛文尼亚布莱德湖",
-   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
+   "place": "瑞典古尔马斯森林的山毛榉与蕨",
+   "credit": "W.carter · CC0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
   },
-  "line": "把手机放远一点，听一会儿窗外的声音。",
-  "by": ""
+  "line": "采菊东篱下，悠然见南山。",
+  "by": "陶渊明《饮酒·其五》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-06.jpg?v=1793918702",
- "teaser": "《奥德赛》为何撑起IMAX纪录季？",
- "teaserPiece": 3,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-07.jpg?v=1794004613",
+ "teaser": "没有国家的人，护照从哪来？",
+ "teaserPiece": 1,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
