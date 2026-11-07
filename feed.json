@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-07T06:37+08:00",
- "date": "2026-11-07",
- "label": "11月7日",
- "dayNo": 42,
- "weekday": "周六",
+ "generated": "2026-11-08T06:42+08:00",
+ "date": "2026-11-08",
+ "label": "11月8日",
+ "dayNo": 43,
+ "weekday": "周日",
  "pigment": {
-  "name": "靛蓝",
-  "light": "#364578",
-  "lightInk": "#2E3C6B",
-  "dark": "#8FA0D6"
+  "name": "藕荷",
+  "light": "#7A5272",
+  "lightInk": "#684060",
+  "dark": "#C19ABA"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,51 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "把护照发给没有国家的人：弗里乔夫·南森",
-   "short": "弗里乔夫·南森",
-   "hook": "先解决「你是谁、你能不能过境」，再谈安置：南森把身份文件做成可执行的国际工具，而不…",
-   "image": null
+   "title": "自掏腰包印了牛顿的书，还算准一颗没等到的彗星：埃德蒙·哈雷",
+   "short": "埃德蒙·哈雷",
+   "hook": "把别人的好想法推到世上，本身就是一种贡献：哈雷先帮牛顿把书印出来，再用牛顿的定律算…",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Thomas_Murray_%281663-1735%29_-_Edmond_Halley_%281656%E2%80%931742%29_-_RS.9284_-_Royal_Society.jpg/330px-Thomas_Murray_%281663-1735%29_-_Edmond_Halley_%281656%E2%80%931742%29_-_RS.9284_-_Royal_Society.jpg",
+    "credit": "托马斯·默里（Thomas Murray） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Thomas_Murray_(1663-1735)_-_Edmond_Halley_(1656%E2%80%931742)_-_RS.9284_-_Royal_Society.jpg"
+   }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "石英浪潮差点灭了瑞士表：从危机到机械复兴",
-   "short": "从危机到机械复兴",
-   "hook": "二战后瑞士机械表一度占全球约一半市场。",
-   "image": null
+   "title": "发明人没申请专利，它却装满了全世界：保温瓶的一百三十多年",
+   "short": "保温瓶的一百三十多年",
+   "hook": "保温瓶一百多年没怎么变：两层瓶壁，中间抽成接近真空。",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Thomas_W._Dewar_-_Sir_James_Dewar%2C_1842_%E2%80%93_1923._Chemist_-_PG_603_-_National_Galleries_of_Scotland.jpg/330px-Thomas_W._Dewar_-_Sir_James_Dewar%2C_1842_%E2%80%93_1923._Chemist_-_PG_603_-_National_Galleries_of_Scotland.jpg",
+    "credit": "Thomas William Dewar · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Thomas_W._Dewar_-_Sir_James_Dewar,_1842_%E2%80%93_1923._Chemist_-_PG_603_-_National_Galleries_of_Scotland.jpg"
+   }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "预订涨两成，利润却像腰斩：Uber 第三季",
-   "short": "Uber 第三季",
-   "hook": "Uber 第三季 Gross Bookings 598 亿美元（+20%），营收 …",
-   "image": null
+   "title": "每天 6490 万人打卡，付费的只多了一成多：多邻国第三季",
+   "short": "多邻国第三季",
+   "hook": "美东时间 11 月 3 日，学语言的 App 多邻国（Duolingo）公布第三季…",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Wikimania_2015_-_Luis_von_Ahn_-_1.JPG/330px-Wikimania_2015_-_Luis_von_Ahn_-_1.JPG",
+    "credit": "Jarek Tuszyński · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Wikimania_2015_-_Luis_von_Ahn_-_1.JPG"
+   }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "数字银行塌了，总统也倒下：巴拉圭佩尼亚去职",
-   "short": "巴拉圭佩尼亚去职",
-   "hook": "2026 年 11 月 5 日，巴拉圭总统圣地亚哥·佩尼亚（Santiago Pe…",
-   "image": null
+   "title": "首相递了辞呈，国王没收：比利时卡在 100 亿欧元的预算缺口上",
+   "short": "比利时卡在 100 亿欧元…",
+   "hook": "11 月 2 日（周一），比利时首相巴特·德韦弗在预算谈判破裂后，向国王菲利普递交…",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Belgian_Prime_Minister_Bart_De_Wever_%28March_2025%29.jpg/330px-Belgian_Prime_Minister_Bart_De_Wever_%28March_2025%29.jpg",
+    "credit": "Dati Bendo（欧盟委员会） · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgian_Prime_Minister_Bart_De_Wever_(March_2025).jpg"
+   }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
-   "place": "瑞典古尔马斯森林的山毛榉与蕨",
-   "credit": "W.carter · CC0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
+   "place": "沙斯塔山与锡斯基尤湖",
+   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
   },
-  "line": "采菊东篱下，悠然见南山。",
-  "by": "陶渊明《饮酒·其五》"
+  "line": "一盏灯、一杯茶、一页书，就是很好的一晚。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-07.jpg?v=1794004613",
- "teaser": "没有国家的人，护照从哪来？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-08.jpg?v=1794091316",
+ "teaser": "牛顿的巨著，为何要哈雷自掏腰包印？",
  "teaserPiece": 1,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
