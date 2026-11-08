@@ -21,7 +21,11 @@
    "title": "被哈佛拒绝终身教职，却让 5 亿人抬头看星空：卡尔·萨根",
    "short": "卡尔·萨根",
    "hook": "被主流评价拒之门外时，换一个舞台继续把事做好：萨根没进哈佛的终身教职名单，却把宇宙…",
-   "image": null
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG",
+    "credit": "NASA/JPL · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Carl_Sagan_Planetary_Society.JPG"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "一池熔锡，让窗户又大又平：平板玻璃的几百年",
    "short": "平板玻璃的几百年",
    "hook": "一块窗玻璃，两面都要平、厚薄要匀，还得透亮不变形。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Crystal_Palace_interior.jpg/330px-Crystal_Palace_interior.jpg",
+    "credit": "J. McNeven（石版画，1851） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Crystal_Palace_interior.jpg"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "营收少了一成二，股价开盘却涨了三成：Krispy Kreme 第三季",
    "short": "Krispy Kreme …",
    "hook": "11 月 5 日，甜甜圈连锁 Krispy Kreme 公布第三季（截至 9 月 …",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Krispy_kreme_glazed_doughnut.jpg/330px-Krispy_kreme_glazed_doughnut.jpg",
+    "credit": "MichaellaaRubio · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Krispy_kreme_glazed_doughnut.jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "两大党都没过三成，谁执政要等 11 月 27 日：新西兰大选悬而未决",
    "short": "新西兰大选悬而未决",
    "hook": "11 月 7 日（周六）新西兰大选，初步计票后没有一方明确获胜。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Christopher_Luxon_and_Chris_Hipkins_2023_-_State_Opening_of_the_54th_Parliament.jpg/330px-Christopher_Luxon_and_Chris_Hipkins_2023_-_State_Opening_of_the_54th_Parliament.jpg",
+    "credit": "新西兰总督府（Office of the Governor-General） · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Christopher_Luxon_and_Chris_Hipkins_2023_-_State_Opening_of_the_54th_Parliament.jpg"
+   }
   }
  ],
  "fallback": {
