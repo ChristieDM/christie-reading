@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-09T06:46+08:00",
- "date": "2026-11-09",
- "label": "11月9日",
- "dayNo": 44,
- "weekday": "周一",
+ "generated": "2026-11-10T06:40+08:00",
+ "date": "2026-11-10",
+ "label": "11月10日",
+ "dayNo": 45,
+ "weekday": "周二",
  "pigment": {
-  "name": "朱砂",
-  "light": "#AE3629",
-  "lightInk": "#972D21",
-  "dark": "#DC796A"
+  "name": "赭石",
+  "light": "#9E572E",
+  "lightInk": "#854723",
+  "dark": "#D49368"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,68 +18,68 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "被哈佛拒绝终身教职，却让 5 亿人抬头看星空：卡尔·萨根",
-   "short": "卡尔·萨根",
-   "hook": "被主流评价拒之门外时，换一个舞台继续把事做好：萨根没进哈佛的终身教职名单，却把宇宙…",
+   "title": "失联六年，被一名记者找到：大卫·利文斯通",
+   "short": "大卫·利文斯通",
+   "hook": "把名声当成工具去推一件更大的事：他说尼罗河源头的价值，「只在于让我在人们中间说话有…",
    "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG",
-    "credit": "NASA/JPL · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Carl_Sagan_Planetary_Society.JPG"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/330px-David_Livingstone_by_Thomas_Annan.jpg",
+    "credit": "托马斯·安南（Thomas Annan） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:David_Livingstone_by_Thomas_Annan.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "一池熔锡，让窗户又大又平：平板玻璃的几百年",
-   "short": "平板玻璃的几百年",
-   "hook": "一块窗玻璃，两面都要平、厚薄要匀，还得透亮不变形。",
+   "title": "4 万人排队抢 1.3 万双丝袜：尼龙的九十年",
+   "short": "尼龙的九十年",
+   "hook": "1946 年 1 月 4 日，美国田纳西州橡树岭的一家百货店门口排起了长队，大家只…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Crystal_Palace_interior.jpg/330px-Crystal_Palace_interior.jpg",
-    "credit": "J. McNeven（石版画，1851） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Crystal_Palace_interior.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Standing_in_line_for_nylon_stockings_at_Millers_dept._store_Oak_Ridge_%287851145488%29.jpg/330px-Standing_in_line_for_nylon_stockings_at_Millers_dept._store_Oak_Ridge_%287851145488%29.jpg",
+    "credit": "Ed Westcott（美国能源部） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Standing_in_line_for_nylon_stockings_at_Millers_dept._store_Oak_Ridge_(7851145488).jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "营收少了一成二，股价开盘却涨了三成：Krispy Kreme 第三季",
-   "short": "Krispy Kreme …",
-   "hook": "11 月 5 日，甜甜圈连锁 Krispy Kreme 公布第三季（截至 9 月 …",
+   "title": "营收涨了 28%，股价一天跌了 18%：Axon 第三季",
+   "short": "Axon 第三季",
+   "hook": "11 月 5 日美股收盘后，做泰瑟电击枪和执法记录仪的 Axon 公布第三季（截至…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Krispy_kreme_glazed_doughnut.jpg/330px-Krispy_kreme_glazed_doughnut.jpg",
-    "credit": "MichaellaaRubio · CC BY 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Krispy_kreme_glazed_doughnut.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Axon_Body_Camera_on_Laramie_SRT_Police_Officer.jpg/330px-Axon_Body_Camera_on_Laramie_SRT_Police_Officer.jpg",
+    "credit": "Tony Webster · CC BY 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Axon_Body_Camera_on_Laramie_SRT_Police_Officer.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "两大党都没过三成，谁执政要等 11 月 27 日：新西兰大选悬而未决",
-   "short": "新西兰大选悬而未决",
-   "hook": "11 月 7 日（周六）新西兰大选，初步计票后没有一方明确获胜。",
+   "title": "一届会两个「主人」：COP31 开幕，钱和化石燃料还是两道坎",
+   "short": "COP31 开幕，钱和化石…",
+   "hook": "11 月 9 日，第 31 届联合国气候变化大会（COP31）在土耳其地中海边的安…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Christopher_Luxon_and_Chris_Hipkins_2023_-_State_Opening_of_the_54th_Parliament.jpg/330px-Christopher_Luxon_and_Chris_Hipkins_2023_-_State_Opening_of_the_54th_Parliament.jpg",
-    "credit": "新西兰总督府（Office of the Governor-General） · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Christopher_Luxon_and_Chris_Hipkins_2023_-_State_Opening_of_the_54th_Parliament.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/COP30_-_Murat_Kurum_01.jpg/330px-COP30_-_Murat_Kurum_01.jpg",
+    "credit": "Xuthoria · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:COP30_-_Murat_Kurum_01.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
-   "place": "英格兰约克郡斯韦尔代尔",
-   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
+   "place": "新西兰阿胡里里河的日出前",
+   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
   },
-  "line": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
-  "by": "苏轼《定风波》"
+  "line": "慢一点也没关系，风会把云吹到该去的地方。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-09.jpg?v=1794177825",
- "teaser": "窗玻璃为什么要浮在一池熔锡上？",
- "teaserPiece": 2,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-10.jpg?v=1794263961",
+ "teaser": "营收涨了28%，股价为何一天跌18%？",
+ "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
