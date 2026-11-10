@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-10T06:40+08:00",
- "date": "2026-11-10",
- "label": "11月10日",
- "dayNo": 45,
- "weekday": "周二",
+ "generated": "2026-11-11T06:36+08:00",
+ "date": "2026-11-11",
+ "label": "11月11日",
+ "dayNo": 46,
+ "weekday": "周三",
  "pigment": {
-  "name": "赭石",
-  "light": "#9E572E",
-  "lightInk": "#854723",
-  "dark": "#D49368"
+  "name": "藤黄",
+  "light": "#C1911F",
+  "lightInk": "#7B5514",
+  "dark": "#E0BA52"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "失联六年，被一名记者找到：大卫·利文斯通",
-   "short": "大卫·利文斯通",
-   "hook": "把名声当成工具去推一件更大的事：他说尼罗河源头的价值，「只在于让我在人们中间说话有…",
+   "title": "行刑队已经举枪，赦令才到：陀思妥耶夫斯基",
+   "short": "陀思妥耶夫斯基",
+   "hook": "把最不堪的经历变成可以追问的问题：他从刑场和苦役里活下来，写的不是「我多惨」，而是…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/330px-David_Livingstone_by_Thomas_Annan.jpg",
-    "credit": "托马斯·安南（Thomas Annan） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:David_Livingstone_by_Thomas_Annan.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/330px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
+    "credit": "瓦西里·佩罗夫（Vasily Perov） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "4 万人排队抢 1.3 万双丝袜：尼龙的九十年",
-   "short": "尼龙的九十年",
-   "hook": "1946 年 1 月 4 日，美国田纳西州橡树岭的一家百货店门口排起了长队，大家只…",
+   "title": "一张本身不值钱的纸，怎样变成大家认的钱：纸币的一千年",
+   "short": "纸币的一千年",
+   "hook": "一块铁钱又重又笨，商人出门做生意，得用车拉。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Standing_in_line_for_nylon_stockings_at_Millers_dept._store_Oak_Ridge_%287851145488%29.jpg/330px-Standing_in_line_for_nylon_stockings_at_Millers_dept._store_Oak_Ridge_%287851145488%29.jpg",
-    "credit": "Ed Westcott（美国能源部） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Standing_in_line_for_nylon_stockings_at_Millers_dept._store_Oak_Ridge_(7851145488).jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg/330px-Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg",
+    "credit": "PHGCOM（摄影） · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "营收涨了 28%，股价一天跌了 18%：Axon 第三季",
-   "short": "Axon 第三季",
-   "hook": "11 月 5 日美股收盘后，做泰瑟电击枪和执法记录仪的 Axon 公布第三季（截至…",
+   "title": "做屋顶空调的公司，营收一年涨了 84%：AAON 靠给 AI 降温",
+   "short": "AAON 靠给 AI 降温",
+   "hook": "11 月 9 日美股收盘后，美国暖通空调公司 AAON 公布第三季（截至 9 月 …",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Axon_Body_Camera_on_Laramie_SRT_Police_Officer.jpg/330px-Axon_Body_Camera_on_Laramie_SRT_Police_Officer.jpg",
-    "credit": "Tony Webster · CC BY 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Axon_Body_Camera_on_Laramie_SRT_Police_Officer.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Data_center_cooling_tower.jpg/330px-Data_center_cooling_tower.jpg",
+    "credit": "Rsparks3 · CC0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Data_center_cooling_tower.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "一届会两个「主人」：COP31 开幕，钱和化石燃料还是两道坎",
-   "short": "COP31 开幕，钱和化石…",
-   "hook": "11 月 9 日，第 31 届联合国气候变化大会（COP31）在土耳其地中海边的安…",
+   "title": "本党议员要弹劾本党部长：众议院表决赫格塞思弹劾案",
+   "short": "众议院表决赫格塞思弹劾案",
+   "hook": "11 月 9 日，美国肯塔基州共和党众议员托马斯·马西在众议院提出决议，以「重罪和…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/COP30_-_Murat_Kurum_01.jpg/330px-COP30_-_Murat_Kurum_01.jpg",
-    "credit": "Xuthoria · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:COP30_-_Murat_Kurum_01.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/United_States_House_of_Representatives_chamber.jpg/330px-United_States_House_of_Representatives_chamber.jpg",
+    "credit": "美国众议院 / 众议院议长办公室 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:United_States_House_of_Representatives_chamber.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
-   "place": "新西兰阿胡里里河的日出前",
-   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+   "place": "张家界天子山",
+   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
   },
-  "line": "慢一点也没关系，风会把云吹到该去的地方。",
-  "by": ""
+  "line": "人闲桂花落，夜静春山空。",
+  "by": "王维《鸟鸣涧》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-10.jpg?v=1794263961",
- "teaser": "营收涨了28%，股价为何一天跌18%？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-11.jpg?v=1794350147",
+ "teaser": "卖屋顶空调的公司，营收为何一年涨84%？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
