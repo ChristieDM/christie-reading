@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-11T06:36+08:00",
- "date": "2026-11-11",
- "label": "11月11日",
- "dayNo": 46,
- "weekday": "周三",
+ "generated": "2026-11-12T13:27+08:00",
+ "date": "2026-11-12",
+ "label": "11月12日",
+ "dayNo": 47,
+ "weekday": "周四",
  "pigment": {
-  "name": "藤黄",
-  "light": "#C1911F",
-  "lightInk": "#7B5514",
-  "dark": "#E0BA52"
+  "name": "石绿",
+  "light": "#38715E",
+  "lightInk": "#295B4B",
+  "dark": "#6BB398"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,51 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "行刑队已经举枪，赦令才到：陀思妥耶夫斯基",
-   "short": "陀思妥耶夫斯基",
-   "hook": "把最不堪的经历变成可以追问的问题：他从刑场和苦役里活下来，写的不是「我多惨」，而是…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/330px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
-    "credit": "瓦西里·佩罗夫（Vasily Perov） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg"
-   }
+   "title": "行医出身，把皇帝换成了约法：孙中山",
+   "short": "孙中山",
+   "hook": "把目标说清楚，再为它反复组织力量：他行医、上书、起义、组党，路径在变，要建立共和的…",
+   "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "一张本身不值钱的纸，怎样变成大家认的钱：纸币的一千年",
-   "short": "纸币的一千年",
-   "hook": "一块铁钱又重又笨，商人出门做生意，得用车拉。",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg/330px-Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg",
-    "credit": "PHGCOM（摄影） · CC BY-SA 3.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg"
-   }
+   "title": "从手抄朝报到上百万份：报纸的四百年",
+   "short": "报纸的四百年",
+   "hook": "今天的新闻可以随时刷到。",
+   "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "做屋顶空调的公司，营收一年涨了 84%：AAON 靠给 AI 降温",
-   "short": "AAON 靠给 AI 降温",
-   "hook": "11 月 9 日美股收盘后，美国暖通空调公司 AAON 公布第三季（截至 9 月 …",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Data_center_cooling_tower.jpg/330px-Data_center_cooling_tower.jpg",
-    "credit": "Rsparks3 · CC0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Data_center_cooling_tower.jpg"
-   }
+   "title": "营收一年涨了 168%，还是亏了 7 亿美元：CoreWeave 的账",
+   "short": "CoreWeave 的账",
+   "hook": "11 月 10 日美股收盘后，人工智能云服务公司 CoreWeave（纳斯达克代码…",
+   "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "本党议员要弹劾本党部长：众议院表决赫格塞思弹劾案",
-   "short": "众议院表决赫格塞思弹劾案",
-   "hook": "11 月 9 日，美国肯塔基州共和党众议员托马斯·马西在众议院提出决议，以「重罪和…",
-   "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/United_States_House_of_Representatives_chamber.jpg/330px-United_States_House_of_Representatives_chamber.jpg",
-    "credit": "美国众议院 / 众议院议长办公室 · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:United_States_House_of_Representatives_chamber.jpg"
-   }
+   "title": "计票八天之后：密西西比选出重建以来首位黑人联邦参议员",
+   "short": "密西西比选出重建以来首位黑…",
+   "hook": "11 月 11 日，美联社宣布：民主党人斯科特·科洛姆（Scott Colom）在…",
+   "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
-   "place": "张家界天子山",
-   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
+   "place": "斯洛文尼亚布莱德湖",
+   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
   },
-  "line": "人闲桂花落，夜静春山空。",
-  "by": "王维《鸟鸣涧》"
+  "line": "今天读不完也不要紧，书页会一直等你。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-11.jpg?v=1794350147",
- "teaser": "卖屋顶空调的公司，营收为何一年涨84%？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-12.jpg?v=1794461227",
+ "teaser": "营收涨了168%，为何还亏七亿美元？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
