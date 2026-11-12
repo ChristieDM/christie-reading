@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-12T13:27+08:00",
- "date": "2026-11-12",
- "label": "11月12日",
- "dayNo": 47,
- "weekday": "周四",
+ "generated": "2026-11-13T06:44+08:00",
+ "date": "2026-11-13",
+ "label": "11月13日",
+ "dayNo": 48,
+ "weekday": "周五",
  "pigment": {
-  "name": "石绿",
-  "light": "#38715E",
-  "lightInk": "#295B4B",
-  "dark": "#6BB398"
+  "name": "花青",
+  "light": "#336384",
+  "lightInk": "#26506D",
+  "dark": "#79AACD"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,52 +18,52 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "行医出身，把皇帝换成了约法：孙中山",
-   "short": "孙中山",
-   "hook": "把目标说清楚，再为它反复组织力量：他行医、上书、起义、组党，路径在变，要建立共和的…",
+   "title": "实验成功了，诺奖名单上却没有她：吴健雄",
+   "short": "吴健雄",
+   "hook": "把关键问题设计成别人无法绕开的实验：理论可以争，仪器读数会把争论结束。",
    "image": null
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从手抄朝报到上百万份：报纸的四百年",
-   "short": "报纸的四百年",
-   "hook": "今天的新闻可以随时刷到。",
+   "title": "两根针尖改写了电气时代：晶体管的八十年",
+   "short": "晶体管的八十年",
+   "hook": "1947 年 12 月 16 日，贝尔实验室里，巴丁和布拉顿用两根极细的金箔针，扎…",
    "image": null
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "营收一年涨了 168%，还是亏了 7 亿美元：CoreWeave 的账",
-   "short": "CoreWeave 的账",
-   "hook": "11 月 10 日美股收盘后，人工智能云服务公司 CoreWeave（纳斯达克代码…",
+   "title": "天一热，靴子少卖了两成：马丁靴的半年账",
+   "short": "马丁靴的半年账",
+   "hook": "11 月 12 日伦敦股市开盘前，英国鞋履品牌 Dr. Martens（大家常说的…",
    "image": null
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "计票八天之后：密西西比选出重建以来首位黑人联邦参议员",
-   "short": "密西西比选出重建以来首位黑…",
-   "hook": "11 月 11 日，美联社宣布：民主党人斯科特·科洛姆（Scott Colom）在…",
+   "title": "执政党投了反对票，方案还是过了：荷兰 76 比 74 的那一晚",
+   "short": "荷兰 76 比 74 的那…",
+   "hook": "11 月 12 日晚，荷兰众议院（共 150 席）以 76 票对 74 票，通过了…",
    "image": null
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
-   "place": "斯洛文尼亚布莱德湖",
-   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
+   "place": "瑞典古尔马斯森林的山毛榉与蕨",
+   "credit": "W.carter · CC0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
   },
-  "line": "今天读不完也不要紧，书页会一直等你。",
-  "by": ""
+  "line": "江流天地外，山色有无中。",
+  "by": "王维《汉江临泛》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-12.jpg?v=1794461227",
- "teaser": "营收涨了168%，为何还亏七亿美元？",
- "teaserPiece": 3,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-13.jpg?v=1794523464",
+ "teaser": "验证了诺奖理论的人，为何没有同台领奖？",
+ "teaserPiece": 1,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
