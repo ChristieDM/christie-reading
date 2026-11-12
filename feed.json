@@ -1,6 +1,6 @@
 {
  "v": 1,
- "generated": "2026-11-13T06:44+08:00",
+ "generated": "2026-11-13T06:45+08:00",
  "date": "2026-11-13",
  "label": "11月13日",
  "dayNo": 48,
@@ -21,7 +21,11 @@
    "title": "实验成功了，诺奖名单上却没有她：吴健雄",
    "short": "吴健雄",
    "hook": "把关键问题设计成别人无法绕开的实验：理论可以争，仪器读数会把争论结束。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Chien-Shiung_Wu_%281912-1997%29_in_1958.jpg/330px-Chien-Shiung_Wu_%281912-1997%29_in_1958.jpg",
+    "credit": "Science Service（史密森学会藏） · 无已知版权限制（史密森学会 Flickr Commons），Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Chien-Shiung_Wu_(1912-1997)_in_1958.jpg"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "两根针尖改写了电气时代：晶体管的八十年",
    "short": "晶体管的八十年",
    "hook": "1947 年 12 月 16 日，贝尔实验室里，巴丁和布拉顿用两根极细的金箔针，扎…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Replica-of-first-transistor.jpg/330px-Replica-of-first-transistor.jpg",
+    "credit": "美国联邦政府雇员 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Replica-of-first-transistor.jpg"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "天一热，靴子少卖了两成：马丁靴的半年账",
    "short": "马丁靴的半年账",
    "hook": "11 月 12 日伦敦股市开盘前，英国鞋履品牌 Dr. Martens（大家常说的…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pair_of_brown_Dr_Martens_1460_boots.jpg/330px-Pair_of_brown_Dr_Martens_1460_boots.jpg",
+    "credit": "Nick-D · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Pair_of_brown_Dr_Martens_1460_boots.jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "执政党投了反对票，方案还是过了：荷兰 76 比 74 的那一晚",
    "short": "荷兰 76 比 74 的那…",
    "hook": "11 月 12 日晚，荷兰众议院（共 150 席）以 76 票对 74 票，通过了…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Tweede_Kamer_tijdelijke_locatie_plenaire_zaal_%281%29.jpg/330px-Tweede_Kamer_tijdelijke_locatie_plenaire_zaal_%281%29.jpg",
+    "credit": "Jeroen van der Meyde / 荷兰众议院 · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Tweede_Kamer_tijdelijke_locatie_plenaire_zaal_(1).jpg"
+   }
   }
  ],
  "fallback": {
