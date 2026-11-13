@@ -21,7 +21,11 @@
    "title": "给原子画了轨道，又承认这张图画得不够：尼尔斯·玻尔",
    "short": "尼尔斯·玻尔",
    "hook": "先给出能用的图像，再有勇气承认它不够：玻尔没有把自己 1913 年的那张轨道图当成…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/330px-Niels_Bohr.jpg",
+    "credit": "AB Lagrelius & Westphal（斯德哥尔摩） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"
+   }
   },
   {
    "n": 2,
@@ -30,7 +34,11 @@
    "title": "先照亮一座小城，再学会害怕：核电的七十年",
    "short": "核电的七十年",
    "hook": "1954 年 6 月 27 日，苏联奥布宁斯克的实验核电站开始向电网送电。",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/RIAN_archive_409173_World%27s_first_nuclear_power_plant_in_Obninsk.jpg/330px-RIAN_archive_409173_World%27s_first_nuclear_power_plant_in_Obninsk.jpg",
+    "credit": "Pavel Bykov（RIA Novosti） · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:RIAN_archive_409173_World%27s_first_nuclear_power_plant_in_Obninsk.jpg"
+   }
   },
   {
    "n": 3,
@@ -39,7 +47,11 @@
    "title": "钱多转了两成多，每笔却收得更少：Wise 的半年账",
    "short": "Wise 的半年账",
    "hook": "美东时间 11 月 12 日下午 4 点（北京时间 13 日清晨），跨境汇款公司 …",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Kristo_K%C3%A4%C3%A4rmann_2025.jpg/330px-Kristo_K%C3%A4%C3%A4rmann_2025.jpg",
+    "credit": "爱沙尼亚外交部 · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Kristo_K%C3%A4%C3%A4rmann_2025.jpg"
+   }
   },
   {
    "n": 4,
@@ -48,7 +60,11 @@
    "title": "前总理回家服刑，部长递上了辞呈：马来西亚执政联盟的一道裂缝",
    "short": "马来西亚执政联盟的一道裂缝",
    "hook": "11 月 10 日晚上 9 点半左右，马来西亚前总理纳吉布坐在一列警车护送的车队里…",
-   "image": null
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Anthony_Loke_%28portrait%2C_4to3%29.jpg/330px-Anthony_Loke_%28portrait%2C_4to3%29.jpg",
+    "credit": "C.W. Tan · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Anthony_Loke_(portrait,_4to3).jpg"
+   }
   }
  ],
  "fallback": {
