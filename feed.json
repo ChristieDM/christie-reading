@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-14T06:42+08:00",
- "date": "2026-11-14",
- "label": "11月14日",
- "dayNo": 49,
- "weekday": "周六",
+ "generated": "2026-11-15T06:38+08:00",
+ "date": "2026-11-15",
+ "label": "11月15日",
+ "dayNo": 50,
+ "weekday": "周日",
  "pigment": {
-  "name": "靛蓝",
-  "light": "#364578",
-  "lightInk": "#2E3C6B",
-  "dark": "#8FA0D6"
+  "name": "藕荷",
+  "light": "#7A5272",
+  "lightInk": "#684060",
+  "dark": "#C19ABA"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,68 +18,68 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "给原子画了轨道，又承认这张图画得不够：尼尔斯·玻尔",
-   "short": "尼尔斯·玻尔",
-   "hook": "先给出能用的图像，再有勇气承认它不够：玻尔没有把自己 1913 年的那张轨道图当成…",
+   "title": "那张关键照片，不是在领奖台上被看见的：罗莎琳德·富兰克林",
+   "short": "罗莎琳德·富兰克林",
+   "hook": "把图像做成别人无法忽视的证据：模型可以争，照片会把螺旋这个事实按在桌面上。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/330px-Niels_Bohr.jpg",
-    "credit": "AB Lagrelius & Westphal（斯德哥尔摩） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Rosalind_Franklin.jpg/330px-Rosalind_Franklin.jpg",
+    "credit": "英国医学研究理事会分子生物学实验室（MRC LMB） · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosalind_Franklin.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "先照亮一座小城，再学会害怕：核电的七十年",
-   "short": "核电的七十年",
-   "hook": "1954 年 6 月 27 日，苏联奥布宁斯克的实验核电站开始向电网送电。",
+   "title": "用一次接种，换掉一场要命的病：疫苗的两百年",
+   "short": "疫苗的两百年",
+   "hook": "1980 年，世界卫生组织宣布：天花已被消灭。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/RIAN_archive_409173_World%27s_first_nuclear_power_plant_in_Obninsk.jpg/330px-RIAN_archive_409173_World%27s_first_nuclear_power_plant_in_Obninsk.jpg",
-    "credit": "Pavel Bykov（RIA Novosti） · CC BY-SA 3.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:RIAN_archive_409173_World%27s_first_nuclear_power_plant_in_Obninsk.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Jenner_phipps_01.jpg/330px-Jenner_phipps_01.jpg",
+    "credit": "欧内斯特·博德（Ernest Board） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Jenner_phipps_01.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "钱多转了两成多，每笔却收得更少：Wise 的半年账",
-   "short": "Wise 的半年账",
-   "hook": "美东时间 11 月 12 日下午 4 点（北京时间 13 日清晨），跨境汇款公司 …",
+   "title": "收入只涨了一成，股价一天涨了 14%：设计院 Stantec 的第三季",
+   "short": "设计院 Stantec 的…",
+   "hook": "11 月 12 日（周四）美股收盘后，加拿大工程设计咨询公司 Stantec 公布…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Kristo_K%C3%A4%C3%A4rmann_2025.jpg/330px-Kristo_K%C3%A4%C3%A4rmann_2025.jpg",
-    "credit": "爱沙尼亚外交部 · CC BY 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Kristo_K%C3%A4%C3%A4rmann_2025.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Stantec_Tower%2C_Edmonton%2C_Alberta_-_July_2020.jpg/330px-Stantec_Tower%2C_Edmonton%2C_Alberta_-_July_2020.jpg",
+    "credit": "Caddyshack01 · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Stantec_Tower,_Edmonton,_Alberta_-_July_2020.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "前总理回家服刑，部长递上了辞呈：马来西亚执政联盟的一道裂缝",
-   "short": "马来西亚执政联盟的一道裂缝",
-   "hook": "11 月 10 日晚上 9 点半左右，马来西亚前总理纳吉布坐在一列警车护送的车队里…",
+   "title": "开枪的警察，先被推定合法？法国连续第五个周六的街头",
+   "short": "开枪的警察，先被推定合法？…",
+   "hook": "法新社和法国 24 台 11 月 14 日报道：这是法国连续第五个周六的全国游行。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Anthony_Loke_%28portrait%2C_4to3%29.jpg/330px-Anthony_Loke_%28portrait%2C_4to3%29.jpg",
-    "credit": "C.W. Tan · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Anthony_Loke_(portrait,_4to3).jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Place_de_la_R%C3%A9publique_%28Paris%29%2C_Marianne_sous_la_neige_05.jpg/330px-Place_de_la_R%C3%A9publique_%28Paris%29%2C_Marianne_sous_la_neige_05.jpg",
+    "credit": "Coyau · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Place_de_la_R%C3%A9publique_(Paris),_Marianne_sous_la_neige_05.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
-   "place": "沙斯塔山与锡斯基尤湖",
-   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
+   "place": "英格兰约克郡斯韦尔代尔",
+   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
   },
-  "line": "先深呼吸一次，再翻开下一页。",
-  "by": ""
+  "line": "行到水穷处，坐看云起时。",
+  "by": "王维《终南别业》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-14.jpg?v=1794609702",
- "teaser": "转账量涨了24%，Wise为何主动降价？",
- "teaserPiece": 3,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-15.jpg?v=1794695845",
+ "teaser": "警察开枪先推定合法，法国人为何上街？",
+ "teaserPiece": 4,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
