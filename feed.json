@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-16T06:44+08:00",
- "date": "2026-11-16",
- "label": "11月16日",
- "dayNo": 51,
- "weekday": "周一",
+ "generated": "2026-11-17T06:40+08:00",
+ "date": "2026-11-17",
+ "label": "11月17日",
+ "dayNo": 52,
+ "weekday": "周二",
  "pigment": {
-  "name": "朱砂",
-  "light": "#AE3629",
-  "lightInk": "#972D21",
-  "dark": "#DC796A"
+  "name": "赭石",
+  "light": "#9E572E",
+  "lightInk": "#854723",
+  "dark": "#D49368"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,52 +18,68 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "把化学写成一门精密科学，自己上了断头台：拉瓦锡",
-   "short": "拉瓦锡",
-   "hook": "先把问题变成可以称量的事实：拉瓦锡没有靠嗓门打倒燃素说，而是让天平上的数字替他说话。",
-   "image": null
+   "title": "把京剧带出海，也把胡须留到胜利：梅兰芳",
+   "short": "梅兰芳",
+   "hook": "传统要被别人看见，先得走出去；要让人尊敬，有时也得学会在不该出场的时候不上场。",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Mei_Lanfang_as_Yang_Guifei%2C_Liangyou%2C_1928-04-30.jpg/330px-Mei_Lanfang_as_Yang_Guifei%2C_Liangyou%2C_1928-04-30.jpg",
+    "credit": "佚名（《良友》画报，1928） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Mei_Lanfang_as_Yang_Guifei,_Liangyou,_1928-04-30.jpg"
+   }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "让一米在全世界一样长：公制的两百年",
-   "short": "公制的两百年",
-   "hook": "同一趟买卖，这里用一只「尺」，那里用另一只「尺」，税款、军粮和实验数据都会对不齐。",
-   "image": null
+   "title": "一间咖啡厅里的活动影像，变成了全球票房：电影的一百三十年",
+   "short": "电影的一百三十年",
+   "hook": "1895 年 12 月 28 日，卢米埃尔兄弟在巴黎一家咖啡馆的地下室，向买票的观…",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Cinematograph_Lumiere_advertisement_1895.jpg/330px-Cinematograph_Lumiere_advertisement_1895.jpg",
+    "credit": "亨利·布里斯波（Henri Brispot） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Cinematograph_Lumiere_advertisement_1895.jpg"
+   }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "本季少卖了两成，股价却涨了 8%：GTA 6 上线前的 Take-Two",
-   "short": "GTA 6 上线前的 Ta…",
-   "hook": "看即将上线大作的公司，要把刚结束的季度、下一季的指引和尚未核对的预订放在一起看，而…",
-   "image": null
+   "title": "老店少卖了 4%，股价却涨了 9%：华住的第三季",
+   "short": "华住的第三季",
+   "hook": "11 月 16 日，华住集团（H World Group，纳斯达克代码 HTHT、…",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanting_Hotel_at_Wutaishan_%2820240608093439%29.jpg/330px-Hanting_Hotel_at_Wutaishan_%2820240608093439%29.jpg",
+    "credit": "N509FZ · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Hanting_Hotel_at_Wutaishan_(20240608093439).jpg"
+   }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "得了六成多，投票的人却不到三分之一：佛得角选出总统",
-   "short": "佛得角选出总统",
-   "hook": "西非岛国佛得角 11 月 15 日举行总统选举。",
-   "image": null
+   "title": "年底要过的税改，可能要拖到明年：澳大利亚的资本利得税",
+   "short": "澳大利亚的资本利得税",
+   "hook": "11 月 16 日，澳大利亚绿党负责财政事务的参议员尼克·麦基姆表示，独立议员阿莱…",
+   "image": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9057%29.jpg/330px-Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9057%29.jpg",
+    "credit": "余楚芊（Yu Chu Chin） · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_(028A9057).jpg"
+   }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
-   "place": "新西兰阿胡里里河的日出前",
-   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+   "place": "张家界天子山",
+   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
   },
-  "line": "山不催人，水也不赶路，你可以按自己的速度来。",
-  "by": ""
+  "line": "明月松间照，清泉石上流。",
+  "by": "王维《山居秋暝》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-16.jpg?v=1794782675",
- "teaser": "总统得了六成多，为何投票的人不到三分之一？",
- "teaserPiece": 4,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-17.jpg?v=1794868768",
+ "teaser": "老店少卖了4%，华住股价为何涨9%？",
+ "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
