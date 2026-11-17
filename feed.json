@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-17T06:40+08:00",
- "date": "2026-11-17",
- "label": "11月17日",
- "dayNo": 52,
- "weekday": "周二",
+ "generated": "2026-11-18T06:40+08:00",
+ "date": "2026-11-18",
+ "label": "11月18日",
+ "dayNo": 53,
+ "weekday": "周三",
  "pigment": {
-  "name": "赭石",
-  "light": "#9E572E",
-  "lightInk": "#854723",
-  "dark": "#D49368"
+  "name": "藤黄",
+  "light": "#C1911F",
+  "lightInk": "#7B5514",
+  "dark": "#E0BA52"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "把京剧带出海，也把胡须留到胜利：梅兰芳",
-   "short": "梅兰芳",
-   "hook": "传统要被别人看见，先得走出去；要让人尊敬，有时也得学会在不该出场的时候不上场。",
+   "title": "一部医典用了六百年，作者却一生在路上：伊本·西那",
+   "short": "伊本·西那",
+   "hook": "把散落的经验编成别人能够学习的体系：他四处奔走，仍坚持把医学写成可以传授的书。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Mei_Lanfang_as_Yang_Guifei%2C_Liangyou%2C_1928-04-30.jpg/330px-Mei_Lanfang_as_Yang_Guifei%2C_Liangyou%2C_1928-04-30.jpg",
-    "credit": "佚名（《良友》画报，1928） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Mei_Lanfang_as_Yang_Guifei,_Liangyou,_1928-04-30.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Portrait_of_Avicenna%3B_anon.%2C_Wellcome_M0009341.jpg/330px-Portrait_of_Avicenna%3B_anon.%2C_Wellcome_M0009341.jpg",
+    "credit": "佚名（惠康图库收藏） · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Avicenna;_anon.,_Wellcome_M0009341.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "一间咖啡厅里的活动影像，变成了全球票房：电影的一百三十年",
-   "short": "电影的一百三十年",
-   "hook": "1895 年 12 月 28 日，卢米埃尔兄弟在巴黎一家咖啡馆的地下室，向买票的观…",
+   "title": "让病人在刀下睡着：麻醉的一百八十年",
+   "short": "麻醉的一百八十年",
+   "hook": "1846 年 10 月 16 日，美国牙医威廉·莫顿在波士顿麻省总医院，用乙醚让病…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Cinematograph_Lumiere_advertisement_1895.jpg/330px-Cinematograph_Lumiere_advertisement_1895.jpg",
-    "credit": "亨利·布里斯波（Henri Brispot） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Cinematograph_Lumiere_advertisement_1895.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/The_First_Operation_Under_Ether_-_Robert_Hinckley.jpg/330px-The_First_Operation_Under_Ether_-_Robert_Hinckley.jpg",
+    "credit": "罗伯特·卡特勒·欣克利（Robert Cutler Hinckley） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:The_First_Operation_Under_Ether_-_Robert_Hinckley.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "老店少卖了 4%，股价却涨了 9%：华住的第三季",
-   "short": "华住的第三季",
-   "hook": "11 月 16 日，华住集团（H World Group，纳斯达克代码 HTHT、…",
+   "title": "黄仁勋刚走，营收却翻了一倍：英伟达的第三季",
+   "short": "英伟达的第三季",
+   "hook": "11 月 17 日美股盘后，英伟达公布了截至 2026 年 10 月 25 日的 …",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanting_Hotel_at_Wutaishan_%2820240608093439%29.jpg/330px-Hanting_Hotel_at_Wutaishan_%2820240608093439%29.jpg",
-    "credit": "N509FZ · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Hanting_Hotel_at_Wutaishan_(20240608093439).jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Nvidia_campus_aerial.jpg/330px-Nvidia_campus_aerial.jpg",
+    "credit": "Dicklyon · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Nvidia_campus_aerial.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "年底要过的税改，可能要拖到明年：澳大利亚的资本利得税",
-   "short": "澳大利亚的资本利得税",
-   "hook": "11 月 16 日，澳大利亚绿党负责财政事务的参议员尼克·麦基姆表示，独立议员阿莱…",
+   "title": "学生名单进了议会，九十天里还要组阁：塞尔维亚的新一页",
+   "short": "塞尔维亚的新一页",
+   "hook": "11 月 17 日，塞尔维亚第十五届国民议会在贝尔格莱德举行首次会议：确认全部 2…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9057%29.jpg/330px-Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9057%29.jpg",
-    "credit": "余楚芊（Yu Chu Chin） · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_(028A9057).jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_2.jpg/330px-House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_2.jpg",
+    "credit": "kallerna · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_2.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
-   "place": "张家界天子山",
-   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
+   "place": "斯洛文尼亚布莱德湖",
+   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
   },
-  "line": "明月松间照，清泉石上流。",
-  "by": "王维《山居秋暝》"
+  "line": "把手机放远一点，听一会儿窗外的声音。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-17.jpg?v=1794868768",
- "teaser": "老店少卖了4%，华住股价为何涨9%？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-18.jpg?v=1794955205",
+ "teaser": "黄仁勋刚辞职，营收为何还能翻倍？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
