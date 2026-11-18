@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-18T06:44+08:00",
- "date": "2026-11-18",
- "label": "11月18日",
- "dayNo": 53,
- "weekday": "周三",
+ "generated": "2026-11-19T06:42+08:00",
+ "date": "2026-11-19",
+ "label": "11月19日",
+ "dayNo": 54,
+ "weekday": "周四",
  "pigment": {
-  "name": "藤黄",
-  "light": "#C1911F",
-  "lightInk": "#7B5514",
-  "dark": "#E0BA52"
+  "name": "石绿",
+  "light": "#38715E",
+  "lightInk": "#295B4B",
+  "dark": "#6BB398"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,68 +18,68 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "一部医典用了六百年，作者却一生在路上：伊本·西那",
-   "short": "伊本·西那",
-   "hook": "把散落的经验编成别人能够学习的体系：他四处奔走，仍坚持把医学写成可以传授的书。",
+   "title": "印度第一位女总理，死在自己的卫兵枪下：英迪拉·甘地",
+   "short": "英迪拉·甘地",
+   "hook": "权力能把一件事做成，不等于它能把代价关上：她赢过战争和选举，最终仍被自己安全安排里…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Portrait_of_Avicenna%3B_anon.%2C_Wellcome_M0009341.jpg/330px-Portrait_of_Avicenna%3B_anon.%2C_Wellcome_M0009341.jpg",
-    "credit": "佚名（惠康图库收藏） · CC BY 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Avicenna;_anon.,_Wellcome_M0009341.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Indira_Gandhi_detail%2C_from-_Indira_Gandhi_and_the_Johnsons_at_the_North_Portico_of_the_White_House_%28cropped%29.tif/lossy-page1-330px-Indira_Gandhi_detail%2C_from-_Indira_Gandhi_and_the_Johnsons_at_the_North_Portico_of_the_White_House_%28cropped%29.tif.jpg",
+    "credit": "白宫摄影师冈本阳一（Yoichi Okamoto） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Indira_Gandhi_detail,_from-_Indira_Gandhi_and_the_Johnsons_at_the_North_Portico_of_the_White_House_(cropped).tif"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "让病人在刀下睡着：麻醉的一百八十年",
-   "short": "麻醉的一百八十年",
-   "hook": "1846 年 10 月 16 日，美国牙医威廉·莫顿在波士顿麻省总医院，用乙醚让病…",
+   "title": "一片叶子走完海上丝路：茶的一千年",
+   "short": "茶的一千年",
+   "hook": "今天它可能出现在北京的盖碗里、伦敦的茶杯里、或者一只办公室的茶包里。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/The_First_Operation_Under_Ether_-_Robert_Hinckley.jpg/330px-The_First_Operation_Under_Ether_-_Robert_Hinckley.jpg",
-    "credit": "罗伯特·卡特勒·欣克利（Robert Cutler Hinckley） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:The_First_Operation_Under_Ether_-_Robert_Hinckley.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Longjing_Tea_field%2C_Dragon_Well_area%2C_Meijiawu_China.jpg/330px-Longjing_Tea_field%2C_Dragon_Well_area%2C_Meijiawu_China.jpg",
+    "credit": "Peter K Burian · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Longjing_Tea_field,_Dragon_Well_area,_Meijiawu_China.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "黄仁勋刚走，营收却翻了一倍：英伟达的第三季",
-   "short": "英伟达的第三季",
-   "hook": "11 月 17 日美股盘后，英伟达公布了截至 2026 年 10 月 25 日的 …",
+   "title": "销售创五年新高，每股却有五角来自退税：Target 的第三季",
+   "short": "Target 的第三季",
+   "hook": "11 月 18 日，美国零售商 Target（纽约证券交易所代码 TGT）公布了截…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Nvidia_campus_aerial.jpg/330px-Nvidia_campus_aerial.jpg",
-    "credit": "Dicklyon · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Nvidia_campus_aerial.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Target_exterior_in_Northern_Virginia_-_November_2019.jpg/330px-Target_exterior_in_Northern_Virginia_-_November_2019.jpg",
+    "credit": "Brainulator9 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Target_exterior_in_Northern_Virginia_-_November_2019.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "学生名单进了议会，九十天里还要组阁：塞尔维亚的新一页",
-   "short": "塞尔维亚的新一页",
-   "hook": "11 月 17 日，塞尔维亚第十五届国民议会在贝尔格莱德举行首次会议：确认全部 2…",
+   "title": "三人第一次坐到同一张桌前，会谈却只排了不到一小时：深圳的三边峰会",
+   "short": "深圳的三边峰会",
+   "hook": "中国外交部 11 月 16 日宣布：11 月 19 日，国家主席习近平将在深圳同俄…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_2.jpg/330px-House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_2.jpg",
-    "credit": "kallerna · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:House_of_the_National_Assembly_of_the_Republic_of_Serbia_Belgrade_2.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Skyline_in_Shenzhen_%2820250327%29.jpg/330px-Skyline_in_Shenzhen_%2820250327%29.jpg",
+    "credit": "Fumikas Sagisavas · CC0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyline_in_Shenzhen_(20250327).jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bled_Island_05.jpg/330px-Bled_Island_05.jpg",
-   "place": "斯洛文尼亚布莱德湖",
-   "credit": "Krzysztof Golik · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bled_Island_05.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
+   "place": "瑞典古尔马斯森林的山毛榉与蕨",
+   "credit": "W.carter · CC0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
   },
-  "line": "把手机放远一点，听一会儿窗外的声音。",
-  "by": ""
+  "line": "采菊东篱下，悠然见南山。",
+  "by": "陶渊明《饮酒·其五》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-18.jpg?v=1794955205",
- "teaser": "黄仁勋刚辞职，营收为何还能翻倍？",
- "teaserPiece": 3,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-19.jpg?v=1795041692",
+ "teaser": "她为何会死在自己的警卫手里？",
+ "teaserPiece": 1,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
