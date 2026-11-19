@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-19T06:42+08:00",
- "date": "2026-11-19",
- "label": "11月19日",
- "dayNo": 54,
- "weekday": "周四",
+ "generated": "2026-11-20T06:48+08:00",
+ "date": "2026-11-20",
+ "label": "11月20日",
+ "dayNo": 55,
+ "weekday": "周五",
  "pigment": {
-  "name": "石绿",
-  "light": "#38715E",
-  "lightInk": "#295B4B",
-  "dark": "#6BB398"
+  "name": "花青",
+  "light": "#336384",
+  "lightInk": "#26506D",
+  "dark": "#79AACD"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,68 +18,68 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "印度第一位女总理，死在自己的卫兵枪下：英迪拉·甘地",
-   "short": "英迪拉·甘地",
-   "hook": "权力能把一件事做成，不等于它能把代价关上：她赢过战争和选举，最终仍被自己安全安排里…",
+   "title": "初中毕业的学徒，把数学送进车间：华罗庚",
+   "short": "华罗庚",
+   "hook": "起点不够齐，不妨碍把事情做到别人必须正视：他缺的是文凭，不缺把难题写成别人能跟下来…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Indira_Gandhi_detail%2C_from-_Indira_Gandhi_and_the_Johnsons_at_the_North_Portico_of_the_White_House_%28cropped%29.tif/lossy-page1-330px-Indira_Gandhi_detail%2C_from-_Indira_Gandhi_and_the_Johnsons_at_the_North_Portico_of_the_White_House_%28cropped%29.tif.jpg",
-    "credit": "白宫摄影师冈本阳一（Yoichi Okamoto） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Indira_Gandhi_detail,_from-_Indira_Gandhi_and_the_Johnsons_at_the_North_Portico_of_the_White_House_(cropped).tif"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hua_Luogeng_1956.jpg/330px-Hua_Luogeng_1956.jpg",
+    "credit": "牛畏予 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Hua_Luogeng_1956.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "一片叶子走完海上丝路：茶的一千年",
-   "short": "茶的一千年",
-   "hook": "今天它可能出现在北京的盖碗里、伦敦的茶杯里、或者一只办公室的茶包里。",
+   "title": "从算盘到口袋里的芯片：计算器的三百年",
+   "short": "计算器的三百年",
+   "hook": "算盘珠子碰在一起的声响，曾是商店、钱庄和会计桌上最普通的计算节奏。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Longjing_Tea_field%2C_Dragon_Well_area%2C_Meijiawu_China.jpg/330px-Longjing_Tea_field%2C_Dragon_Well_area%2C_Meijiawu_China.jpg",
-    "credit": "Peter K Burian · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Longjing_Tea_field,_Dragon_Well_area,_Meijiawu_China.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Casiomini_1972.jpg/330px-Casiomini_1972.jpg",
+    "credit": "Yagshi · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Casiomini_1972.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "销售创五年新高，每股却有五角来自退税：Target 的第三季",
-   "short": "Target 的第三季",
-   "hook": "11 月 18 日，美国零售商 Target（纽约证券交易所代码 TGT）公布了截…",
+   "title": "三个药的峰值预期加了四十亿，股价却在当天走弱：诺华的资本日",
+   "short": "诺华的资本日",
+   "hook": "11 月 19 日，瑞士制药公司诺华（Novartis）在伦敦举行「与诺华管理层会…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Target_exterior_in_Northern_Virginia_-_November_2019.jpg/330px-Target_exterior_in_Northern_Virginia_-_November_2019.jpg",
-    "credit": "Brainulator9 · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Target_exterior_in_Northern_Virginia_-_November_2019.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Novartis_Pavillon_Basel.jpg/330px-Novartis_Pavillon_Basel.jpg",
+    "credit": "MBxd1 · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Novartis_Pavillon_Basel.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "三人第一次坐到同一张桌前，会谈却只排了不到一小时：深圳的三边峰会",
-   "short": "深圳的三边峰会",
-   "hook": "中国外交部 11 月 16 日宣布：11 月 19 日，国家主席习近平将在深圳同俄…",
+   "title": "谈选举改革的会，反对派中途走了出去：肯尼亚选委会的那一上午",
+   "short": "肯尼亚选委会的那一上午",
+   "hook": "11 月 19 日，肯尼亚独立选举与边界委员会（IEBC）在内罗毕召开与各政党领袖…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Skyline_in_Shenzhen_%2820250327%29.jpg/330px-Skyline_in_Shenzhen_%2820250327%29.jpg",
-    "credit": "Fumikas Sagisavas · CC0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Skyline_in_Shenzhen_(20250327).jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Parliament_Buildings%2C_Nairobi%2C_Kenya-21April2010.jpg/330px-Parliament_Buildings%2C_Nairobi%2C_Kenya-21April2010.jpg",
+    "credit": "Jorge Láscar · CC BY-SA 2.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Parliament_Buildings,_Nairobi,_Kenya-21April2010.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
-   "place": "瑞典古尔马斯森林的山毛榉与蕨",
-   "credit": "W.carter · CC0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
+   "place": "沙斯塔山与锡斯基尤湖",
+   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
   },
-  "line": "采菊东篱下，悠然见南山。",
-  "by": "陶渊明《饮酒·其五》"
+  "line": "一盏灯、一杯茶、一页书，就是很好的一晚。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-19.jpg?v=1795041692",
- "teaser": "她为何会死在自己的警卫手里？",
- "teaserPiece": 1,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-20.jpg?v=1795128476",
+ "teaser": "三个药的峰值预期加了四十亿，股价为何还跌？",
+ "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
