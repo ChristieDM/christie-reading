@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-20T06:48+08:00",
- "date": "2026-11-20",
- "label": "11月20日",
- "dayNo": 55,
- "weekday": "周五",
+ "generated": "2026-11-21T06:36+08:00",
+ "date": "2026-11-21",
+ "label": "11月21日",
+ "dayNo": 56,
+ "weekday": "周六",
  "pigment": {
-  "name": "花青",
-  "light": "#336384",
-  "lightInk": "#26506D",
-  "dark": "#79AACD"
+  "name": "靛蓝",
+  "light": "#364578",
+  "lightInk": "#2E3C6B",
+  "dark": "#8FA0D6"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "初中毕业的学徒，把数学送进车间：华罗庚",
-   "short": "华罗庚",
-   "hook": "起点不够齐，不妨碍把事情做到别人必须正视：他缺的是文凭，不缺把难题写成别人能跟下来…",
+   "title": "一生与权贵争吵，却把宽容写成了事业：伏尔泰",
+   "short": "伏尔泰",
+   "hook": "批评若要有力量，最后要落到一个具体的人身上：伏尔泰可以嘲讽整个时代，但让他真正改变…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hua_Luogeng_1956.jpg/330px-Hua_Luogeng_1956.jpg",
-    "credit": "牛畏予 · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Hua_Luogeng_1956.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet.jpg/330px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet.jpg",
+    "credit": "尼古拉·德拉尔吉耶尔（Nicolas de Largillière） · CC0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_(1694-1778)_en_1718_-_P208_-_mus%C3%A9e_Carnavalet.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从算盘到口袋里的芯片：计算器的三百年",
-   "short": "计算器的三百年",
-   "hook": "算盘珠子碰在一起的声响，曾是商店、钱庄和会计桌上最普通的计算节奏。",
+   "title": "想把世界上的知识按字母排好：百科全书的两百年",
+   "short": "百科全书的两百年",
+   "hook": "把知识写成可以查阅、可以核对、也可以修正的条目，比把书做得更厚更长久。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Casiomini_1972.jpg/330px-Casiomini_1972.jpg",
-    "credit": "Yagshi · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Casiomini_1972.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg/330px-Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
+    "credit": "《百科全书》扉页（公有领域） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "三个药的峰值预期加了四十亿，股价却在当天走弱：诺华的资本日",
-   "short": "诺华的资本日",
-   "hook": "11 月 19 日，瑞士制药公司诺华（Novartis）在伦敦举行「与诺华管理层会…",
+   "title": "一百二十亿买来的软件，五年后卖出不到三分之一：Intuit 出售 Mailchimp",
+   "short": "Intuit 出售 Mai…",
+   "hook": "买进来的价格，五年后仍会被拿出来对照：增长可以写进收购理由，也要能在日后的出让价里…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Novartis_Pavillon_Basel.jpg/330px-Novartis_Pavillon_Basel.jpg",
-    "credit": "MBxd1 · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Novartis_Pavillon_Basel.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Intuit_headquarters.jpg/330px-Intuit_headquarters.jpg",
+    "credit": "Coolcaesar · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Intuit_headquarters.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "谈选举改革的会，反对派中途走了出去：肯尼亚选委会的那一上午",
-   "short": "肯尼亚选委会的那一上午",
-   "hook": "11 月 19 日，肯尼亚独立选举与边界委员会（IEBC）在内罗毕召开与各政党领袖…",
+   "title": "绿白一起反对，法案还是过了：立法院三读普发两万",
+   "short": "立法院三读普发两万",
+   "hook": "11 月 20 日下午，台湾立法院三读通过国民党团提出的《全民共享经济成果及稳定民…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Parliament_Buildings%2C_Nairobi%2C_Kenya-21April2010.jpg/330px-Parliament_Buildings%2C_Nairobi%2C_Kenya-21April2010.jpg",
-    "credit": "Jorge Láscar · CC BY-SA 2.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Parliament_Buildings,_Nairobi,_Kenya-21April2010.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Legislative_Yuan_Building_20240626.jpg/330px-Legislative_Yuan_Building_20240626.jpg",
+    "credit": "Yu tptw · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Legislative_Yuan_Building_20240626.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
-   "place": "沙斯塔山与锡斯基尤湖",
-   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
+   "place": "英格兰约克郡斯韦尔代尔",
+   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
   },
-  "line": "一盏灯、一杯茶、一页书，就是很好的一晚。",
-  "by": ""
+  "line": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
+  "by": "苏轼《定风波》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-20.jpg?v=1795128476",
- "teaser": "三个药的峰值预期加了四十亿，股价为何还跌？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-21.jpg?v=1795214159",
+ "teaser": "一百二十亿买的软件，为何只卖三十多亿？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
