@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-21T06:36+08:00",
- "date": "2026-11-21",
- "label": "11月21日",
- "dayNo": 56,
- "weekday": "周六",
+ "generated": "2026-11-22T06:52+08:00",
+ "date": "2026-11-22",
+ "label": "11月22日",
+ "dayNo": 57,
+ "weekday": "周日",
  "pigment": {
-  "name": "靛蓝",
-  "light": "#364578",
-  "lightInk": "#2E3C6B",
-  "dark": "#8FA0D6"
+  "name": "藕荷",
+  "light": "#7A5272",
+  "lightInk": "#684060",
+  "dark": "#C19ABA"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "一生与权贵争吵，却把宽容写成了事业：伏尔泰",
-   "short": "伏尔泰",
-   "hook": "批评若要有力量，最后要落到一个具体的人身上：伏尔泰可以嘲讽整个时代，但让他真正改变…",
+   "title": "丈夫进了病院，她把全家和作品一起撑了下来：克拉拉·舒曼",
+   "short": "克拉拉·舒曼",
+   "hook": "把才能做成可以养家、可以传下去的职业：她没有等待一个更公平的时代到来，而是用一场场…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet.jpg/330px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet.jpg",
-    "credit": "尼古拉·德拉尔吉耶尔（Nicolas de Largillière） · CC0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_(1694-1778)_en_1718_-_P208_-_mus%C3%A9e_Carnavalet.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Franz_Hanfstaengl_-_Clara_Schumann_%281857%29.jpg/330px-Franz_Hanfstaengl_-_Clara_Schumann_%281857%29.jpg",
+    "credit": "弗朗茨·汉夫施滕格尔（Franz Hanfstaengl） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Franz_Hanfstaengl_-_Clara_Schumann_(1857).jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "想把世界上的知识按字母排好：百科全书的两百年",
-   "short": "百科全书的两百年",
-   "hook": "把知识写成可以查阅、可以核对、也可以修正的条目，比把书做得更厚更长久。",
+   "title": "把一次演出变成可以带走的圆盘：唱片的一百五十年",
+   "short": "唱片的一百五十年",
+   "hook": "把表演保存下来之后，真正要面对的，是怎样分配由此产生的价值。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg/330px-Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
-    "credit": "《百科全书》扉页（公有领域） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Edison_and_phonograph_edit2.jpg/330px-Edison_and_phonograph_edit2.jpg",
+    "credit": "Levin C. Handy · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Edison_and_phonograph_edit2.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "一百二十亿买来的软件，五年后卖出不到三分之一：Intuit 出售 Mailchimp",
-   "short": "Intuit 出售 Mai…",
-   "hook": "买进来的价格，五年后仍会被拿出来对照：增长可以写进收购理由，也要能在日后的出让价里…",
+   "title": "史上最大规模上市，两天就接近发行价：Anthropic 的登场",
+   "short": "Anthropic 的登场",
+   "hook": "募资规模可以刷新纪录，定价却仍要接受开盘之后每一个交易日的核对。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Intuit_headquarters.jpg/330px-Intuit_headquarters.jpg",
-    "credit": "Coolcaesar · CC BY-SA 3.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Intuit_headquarters.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/330px-Nasdaq_Tower_May_2026.jpg",
+    "credit": "Nielsoncaetanosalmeron · CC BY 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Nasdaq_Tower_May_2026.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "绿白一起反对，法案还是过了：立法院三读普发两万",
-   "short": "立法院三读普发两万",
-   "hook": "11 月 20 日下午，台湾立法院三读通过国民党团提出的《全民共享经济成果及稳定民…",
+   "title": "超时一天还是谈不拢：气候大会卡在要不要写化石燃料",
+   "short": "气候大会卡在要不要写化石燃料",
+   "hook": "联合国气候变化大会 COP31 在土耳其安塔利亚举行。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Legislative_Yuan_Building_20240626.jpg/330px-Legislative_Yuan_Building_20240626.jpg",
-    "credit": "Yu tptw · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Legislative_Yuan_Building_20240626.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tarique_Rahman_addressing_the_United_Nations_Climate_Change_Conference_COP31_in_Antalya%2C_Turkey%2C_2026-11-12.jpg/330px-Tarique_Rahman_addressing_the_United_Nations_Climate_Change_Conference_COP31_in_Antalya%2C_Turkey%2C_2026-11-12.jpg",
+    "credit": "孟加拉国新闻局（Press Information Department） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Tarique_Rahman_addressing_the_United_Nations_Climate_Change_Conference_COP31_in_Antalya,_Turkey,_2026-11-12.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
-   "place": "英格兰约克郡斯韦尔代尔",
-   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
+   "place": "新西兰阿胡里里河的日出前",
+   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
   },
-  "line": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
-  "by": "苏轼《定风波》"
+  "line": "慢一点也没关系，风会把云吹到该去的地方。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-21.jpg?v=1795214159",
- "teaser": "一百二十亿买的软件，为何只卖三十多亿？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-22.jpg?v=1795301530",
+ "teaser": "史上最大规模上市，为何两天就接近发行价？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
