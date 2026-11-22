@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-22T06:52+08:00",
- "date": "2026-11-22",
- "label": "11月22日",
- "dayNo": 57,
- "weekday": "周日",
+ "generated": "2026-11-23T06:47+08:00",
+ "date": "2026-11-23",
+ "label": "11月23日",
+ "dayNo": 58,
+ "weekday": "周一",
  "pigment": {
-  "name": "藕荷",
-  "light": "#7A5272",
-  "lightInk": "#684060",
-  "dark": "#C19ABA"
+  "name": "朱砂",
+  "light": "#AE3629",
+  "lightInk": "#972D21",
+  "dark": "#DC796A"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "丈夫进了病院，她把全家和作品一起撑了下来：克拉拉·舒曼",
-   "short": "克拉拉·舒曼",
-   "hook": "把才能做成可以养家、可以传下去的职业：她没有等待一个更公平的时代到来，而是用一场场…",
+   "title": "走了三十年，把山水写成可核对的记录：徐霞客",
+   "short": "徐霞客",
+   "hook": "把「我到过」写成「我看见了什么」：旅行的价值不在足迹有多远，而在记录能不能被后人拿…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Franz_Hanfstaengl_-_Clara_Schumann_%281857%29.jpg/330px-Franz_Hanfstaengl_-_Clara_Schumann_%281857%29.jpg",
-    "credit": "弗朗茨·汉夫施滕格尔（Franz Hanfstaengl） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Franz_Hanfstaengl_-_Clara_Schumann_(1857).jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Xu_Xiake.png/330px-Xu_Xiake.png",
+    "credit": "佚名（历史肖像，User:Mountain 翻拍） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Xu_Xiake.png"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "把一次演出变成可以带走的圆盘：唱片的一百五十年",
-   "short": "唱片的一百五十年",
-   "hook": "把表演保存下来之后，真正要面对的，是怎样分配由此产生的价值。",
+   "title": "一张图怎样把世界放平：地图的两千年",
+   "short": "地图的两千年",
+   "hook": "用一张图之前，先问它为谁而平：方便航行的投影，也可能让人对世界的形状产生错觉。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Edison_and_phonograph_edit2.jpg/330px-Edison_and_phonograph_edit2.jpg",
-    "credit": "Levin C. Handy · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Edison_and_phonograph_edit2.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Mercator_1569_world_map_composite.jpg/330px-Mercator_1569_world_map_composite.jpg",
+    "credit": "杰拉杜斯·墨卡托（Gerardus Mercator） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercator_1569_world_map_composite.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "史上最大规模上市，两天就接近发行价：Anthropic 的登场",
-   "short": "Anthropic 的登场",
-   "hook": "募资规模可以刷新纪录，定价却仍要接受开盘之后每一个交易日的核对。",
+   "title": "募集刚满月，就要每天亮出持仓：首批主动ETF上市",
+   "short": "首批主动ETF上市",
+   "hook": "「每天公开持仓」降低了信息不对称，并不自动等于更好的收益。上市初期更值得看的，是买…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/330px-Nasdaq_Tower_May_2026.jpg",
-    "credit": "Nielsoncaetanosalmeron · CC BY 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Nasdaq_Tower_May_2026.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shanghai_Stock_Exchange_Building.jpg/330px-Shanghai_Stock_Exchange_Building.jpg",
+    "credit": "Baycrest · CC BY-SA 2.5，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Stock_Exchange_Building.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "超时一天还是谈不拢：气候大会卡在要不要写化石燃料",
-   "short": "气候大会卡在要不要写化石燃料",
-   "hook": "联合国气候变化大会 COP31 在土耳其安塔利亚举行。",
+   "title": "330票定下第258席：众议院出现三十年来最大多数",
+   "short": "众议院出现三十年来最大多数",
+   "hook": "把一场只差 330 票的翻盘写成全国浪潮的象征，或反过来写成「只是一次偶然」，都缺…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Tarique_Rahman_addressing_the_United_Nations_Climate_Change_Conference_COP31_in_Antalya%2C_Turkey%2C_2026-11-12.jpg/330px-Tarique_Rahman_addressing_the_United_Nations_Climate_Change_Conference_COP31_in_Antalya%2C_Turkey%2C_2026-11-12.jpg",
-    "credit": "孟加拉国新闻局（Press Information Department） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Tarique_Rahman_addressing_the_United_Nations_Climate_Change_Conference_COP31_in_Antalya,_Turkey,_2026-11-12.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Hakeem_Jeffries_official_portrait.jpg/330px-Hakeem_Jeffries_official_portrait.jpg",
+    "credit": "美国国会 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Hakeem_Jeffries_official_portrait.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
-   "place": "新西兰阿胡里里河的日出前",
-   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+   "place": "张家界天子山",
+   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
   },
-  "line": "慢一点也没关系，风会把云吹到该去的地方。",
-  "by": ""
+  "line": "人闲桂花落，夜静春山空。",
+  "by": "王维《鸟鸣涧》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-22.jpg?v=1795301530",
- "teaser": "史上最大规模上市，为何两天就接近发行价？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-23.jpg?v=1795387625",
+ "teaser": "主动选股的基金，为何每天都要公开持仓？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
