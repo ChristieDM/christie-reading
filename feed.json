@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-23T06:47+08:00",
- "date": "2026-11-23",
- "label": "11月23日",
- "dayNo": 58,
- "weekday": "周一",
+ "generated": "2026-11-25T06:41+08:00",
+ "date": "2026-11-25",
+ "label": "11月25日",
+ "dayNo": 59,
+ "weekday": "周三",
  "pigment": {
-  "name": "朱砂",
-  "light": "#AE3629",
-  "lightInk": "#972D21",
-  "dark": "#DC796A"
+  "name": "藤黄",
+  "light": "#C1911F",
+  "lightInk": "#7B5514",
+  "dark": "#E0BA52"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "走了三十年，把山水写成可核对的记录：徐霞客",
-   "short": "徐霞客",
-   "hook": "把「我到过」写成「我看见了什么」：旅行的价值不在足迹有多远，而在记录能不能被后人拿…",
+   "title": "把钢卖成美国最贵的公司，又把钱散进图书馆：安德鲁·卡内基",
+   "short": "安德鲁·卡内基",
+   "hook": "把财富写成责任并不难，难的是同时诚实面对财富是怎样积起来的：卡内基捐赠了图书馆，霍…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Xu_Xiake.png/330px-Xu_Xiake.png",
-    "credit": "佚名（历史肖像，User:Mountain 翻拍） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Xu_Xiake.png"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Andrew_Carnegie%2C_three-quarter_length_portrait%2C_seated%2C_facing_slightly_left%2C_1913.jpg/330px-Andrew_Carnegie%2C_three-quarter_length_portrait%2C_seated%2C_facing_slightly_left%2C_1913.jpg",
+    "credit": "西奥多·C·马索（Theodore C. Marceau） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Andrew_Carnegie,_three-quarter_length_portrait,_seated,_facing_slightly_left,_1913.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "一张图怎样把世界放平：地图的两千年",
-   "short": "地图的两千年",
-   "hook": "用一张图之前，先问它为谁而平：方便航行的投影，也可能让人对世界的形状产生错觉。",
+   "title": "从一炉铁到十亿吨钢：钢铁的一百七十年",
+   "short": "钢铁的一百七十年",
+   "hook": "钢仍然撑着几乎所有现代工程；可当产量开始回落，下一问就变成：怎样炼得更干净，而不只…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Mercator_1569_world_map_composite.jpg/330px-Mercator_1569_world_map_composite.jpg",
-    "credit": "杰拉杜斯·墨卡托（Gerardus Mercator） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Mercator_1569_world_map_composite.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bessemer_converter.jpg/330px-Bessemer_converter.jpg",
+    "credit": "罗伯特·劳特利奇（R. Routledge）《十九世纪的发现与发明》插图 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Bessemer_converter.jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "募集刚满月，就要每天亮出持仓：首批主动ETF上市",
-   "short": "首批主动ETF上市",
-   "hook": "「每天公开持仓」降低了信息不对称，并不自动等于更好的收益。上市初期更值得看的，是买…",
+   "title": "两个已上市的药，卖了四百一十亿美元：赛诺菲收购 Insmed",
+   "short": "赛诺菲收购 Insmed",
+   "hook": "已经核实的是价格、产品和时间表；需要分开的是「这能否成为赛诺菲的下一个增长支柱」—…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Shanghai_Stock_Exchange_Building.jpg/330px-Shanghai_Stock_Exchange_Building.jpg",
-    "credit": "Baycrest · CC BY-SA 2.5，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Stock_Exchange_Building.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Rue_de_la_Bo%C3%A9tie%2C_54-56.jpg/330px-Rue_de_la_Bo%C3%A9tie%2C_54-56.jpg",
+    "credit": "Tangopaso · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Rue_de_la_Bo%C3%A9tie,_54-56.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "330票定下第258席：众议院出现三十年来最大多数",
-   "short": "众议院出现三十年来最大多数",
-   "hook": "把一场只差 330 票的翻盘写成全国浪潮的象征，或反过来写成「只是一次偶然」，都缺…",
+   "title": "通报只有一句话：上海市委书记陈吉宁接受审查调查",
+   "short": "上海市委书记陈吉宁接受审查…",
+   "hook": "更稳妥的读法，是把 11 月 24 日的通报记成一个已核实的程序启动，把事由、结论…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Hakeem_Jeffries_official_portrait.jpg/330px-Hakeem_Jeffries_official_portrait.jpg",
-    "credit": "美国国会 · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Hakeem_Jeffries_official_portrait.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Shanghai_Government_Building.jpg/330px-Shanghai_Government_Building.jpg",
+    "credit": "Baycrest · CC BY-SA 2.5，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Government_Building.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/330px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
-   "place": "张家界天子山",
-   "credit": "chensiyuan · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Beech_and_ferns_in_Gullmarsskogen.jpg/330px-Beech_and_ferns_in_Gullmarsskogen.jpg",
+   "place": "瑞典古尔马斯森林的山毛榉与蕨",
+   "credit": "W.carter · CC0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beech_and_ferns_in_Gullmarsskogen.jpg"
   },
-  "line": "人闲桂花落，夜静春山空。",
-  "by": "王维《鸟鸣涧》"
+  "line": "江流天地外，山色有无中。",
+  "by": "王维《汉江临泛》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-23.jpg?v=1795387625",
- "teaser": "主动选股的基金，为何每天都要公开持仓？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-25.jpg?v=1795560075",
+ "teaser": "两个已上市的药，为何值四百一十亿美元？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
