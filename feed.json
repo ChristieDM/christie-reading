@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-26T06:45+08:00",
- "date": "2026-11-26",
- "label": "11月26日",
- "dayNo": 60,
- "weekday": "周四",
+ "generated": "2026-11-27T06:49+08:00",
+ "date": "2026-11-27",
+ "label": "11月27日",
+ "dayNo": 61,
+ "weekday": "周五",
  "pigment": {
-  "name": "石绿",
-  "light": "#38715E",
-  "lightInk": "#295B4B",
-  "dark": "#6BB398"
+  "name": "花青",
+  "light": "#336384",
+  "lightInk": "#26506D",
+  "dark": "#79AACD"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,67 +18,67 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "把疼痛、石膏和一只猴子画进自画像：弗里达·卡罗",
-   "short": "弗里达·卡罗",
-   "hook": "痛苦不会自动成为艺术，但她拒绝把痛苦藏起来：她把别人只在病床边才会看见的事，画成必…",
+   "title": "用一篇论文给「信息」装上了度量衡：克劳德·香农",
+   "short": "克劳德·香农",
+   "hook": "先给模糊的东西找出可以计算的量：香农没有去发明某一种具体的网线，却让后来所有的网线…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Guillermo_Kahlo_-_Frida_Kahlo%2C_June_15%2C_1919_-_Google_Art_Project.jpg/330px-Guillermo_Kahlo_-_Frida_Kahlo%2C_June_15%2C_1919_-_Google_Art_Project.jpg",
-    "credit": "吉列尔莫·卡罗（Guillermo Kahlo） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Guillermo_Kahlo_-_Frida_Kahlo,_June_15,_1919_-_Google_Art_Project.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Claude_Shannon_1958_MIT_portrait_original.jpg/330px-Claude_Shannon_1958_MIT_portrait_original.jpg",
+    "credit": "MIT 摄影室，由 MIT 博物馆数字化 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Claude_Shannon_1958_MIT_portrait_original.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "从祭司的苦饮到一块能掰开的糖：巧克力的五百年",
-   "short": "巧克力的五百年",
-   "hook": "巧克力已经能做得极细、极甜、随处可买；可产区农户的收入和劳动条件，仍然常常被留在供…",
+   "title": "四台计算机连起来之后：互联网的五十多年",
+   "short": "互联网的五十多年",
+   "hook": "互联网能长大，是因为大家先答应用同一套协议。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Cacao_pods.jpg/330px-Cacao_pods.jpg",
-    "credit": "FranHogan · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Cacao_pods.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/330px-Arpanet_logical_map%2C_march_1977.png",
+    "credit": "阿帕网（ARPANET） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977.png"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "十一亿不是买价：StarHub 和 M1 要合成一家",
-   "short": "StarHub 和 M1 …",
-   "hook": "已经核实的是换股比例、协同效应的净现值和审批时间表；需要分开的是「11 亿新元」—…",
+   "title": "还没出价，股价先涨了百分之十三：奥驰亚盯上帝国品牌",
+   "short": "奥驰亚盯上帝国品牌",
+   "hook": "还没有报价，规则却已经启动了倒计时：市场常常先给「可能有人买」定价，标题里的大数字…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Starhub_shop_in_Tampines%2C_Singapore.png/330px-Starhub_shop_in_Tampines%2C_Singapore.png",
-    "credit": "Earthkingfather · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Starhub_shop_in_Tampines,_Singapore.png"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/London_Stock_Exchange%2C_Paternoster_Square.jpg/330px-London_Stock_Exchange%2C_Paternoster_Square.jpg",
+    "credit": "伦敦证券交易所（London Stock Exchange） · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Stock_Exchange,_Paternoster_Square.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "还没开征，先点了十四个名字：美国的「产能过剩」关税",
-   "short": "美国的「产能过剩」关税",
-   "hook": "11 月 25 日可以核对的，是一份覆盖十四个经济体的认定和仍在征求意见的税率方案…",
+   "title": "还不是法律，却先过了一关：以色列要限制总理连任八年",
+   "short": "以色列要限制总理连任八年",
+   "hook": "法案过了第一关，还不等于已经改变谁能当总理；但它也不是一句空话——后面的审议、表决…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Official_portrait_of_U.S._Trade_Representative_Jamieson_Greer.jpg/330px-Official_portrait_of_U.S._Trade_Representative_Jamieson_Greer.jpg",
-    "credit": "美国贸易代表办公室（Office of the United States Trade Representative） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_U.S._Trade_Representative_Jamieson_Greer.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/330px-Knesset_front_side_-_2022.jpg",
+    "credit": "Clema12 · CC BY-SA 4.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Knesset_front_side_-_2022.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg/330px-Mount_Shasta%2C_Lake_Siskiyou%2C_SW_view.jpg",
-   "place": "沙斯塔山与锡斯基尤湖",
-   "credit": "Radomianin · CC BY-SA 4.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mount_Shasta,_Lake_Siskiyou,_SW_view.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
+   "place": "英格兰约克郡斯韦尔代尔",
+   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
   },
-  "line": "先深呼吸一次，再翻开下一页。",
-  "by": ""
+  "line": "行到水穷处，坐看云起时。",
+  "by": "王维《终南别业》"
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-26.jpg?v=1795646703",
- "teaser": "十一亿新元不是收购价，那它是什么？",
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-27.jpg?v=1795733350",
+ "teaser": "还没出价，股价为什么先涨了13%？",
  "teaserPiece": 3,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
