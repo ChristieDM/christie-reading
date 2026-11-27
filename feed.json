@@ -1,15 +1,15 @@
 {
  "v": 1,
- "generated": "2026-11-27T06:49+08:00",
- "date": "2026-11-27",
- "label": "11月27日",
- "dayNo": 61,
- "weekday": "周五",
+ "generated": "2026-11-28T06:45+08:00",
+ "date": "2026-11-28",
+ "label": "11月28日",
+ "dayNo": 62,
+ "weekday": "周六",
  "pigment": {
-  "name": "花青",
-  "light": "#336384",
-  "lightInk": "#26506D",
-  "dark": "#79AACD"
+  "name": "靛蓝",
+  "light": "#364578",
+  "lightInk": "#2E3C6B",
+  "dark": "#8FA0D6"
  },
  "status": "待反馈",
  "statusIcon": "◷",
@@ -18,68 +18,68 @@
    "n": 1,
    "category": "名人传记",
    "icon": "person.fill",
-   "title": "用一篇论文给「信息」装上了度量衡：克劳德·香农",
-   "short": "克劳德·香农",
-   "hook": "先给模糊的东西找出可以计算的量：香农没有去发明某一种具体的网线，却让后来所有的网线…",
+   "title": "考场失意之后，把药物写成一部全书：李时珍",
+   "short": "李时珍",
+   "hook": "发现旧书里有错，就走出去看实物：李时珍的贡献，不只是写得厚，而是不肯把错抄再抄下去。",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Claude_Shannon_1958_MIT_portrait_original.jpg/330px-Claude_Shannon_1958_MIT_portrait_original.jpg",
-    "credit": "MIT 摄影室，由 MIT 博物馆数字化 · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Claude_Shannon_1958_MIT_portrait_original.jpg"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Li_Shizhen_portrait.jpg",
+    "credit": "佚名 · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Li_Shizhen_portrait.jpg"
    }
   },
   {
    "n": 2,
    "category": "行业发展史",
    "icon": "clock.arrow.circlepath",
-   "title": "四台计算机连起来之后：互联网的五十多年",
-   "short": "互联网的五十多年",
-   "hook": "互联网能长大，是因为大家先答应用同一套协议。",
+   "title": "从柳树皮到一颗小药片：阿司匹林的一百多年",
+   "short": "阿司匹林的一百多年",
+   "hook": "柳树皮变成小药片之后，真正成熟的标志不是「人人都该吃」，而是：知道它该在什么情况下…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Arpanet_logical_map%2C_march_1977.png/330px-Arpanet_logical_map%2C_march_1977.png",
-    "credit": "阿帕网（ARPANET） · 公有领域，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Arpanet_logical_map,_march_1977.png"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Bayer_Aspirin_Tin%2C_12_Tablet_Size_-_DPLA_-_4933a747798959eeb3a858b79c49cb77_%28page_1%29.jpg/330px-Bayer_Aspirin_Tin%2C_12_Tablet_Size_-_DPLA_-_4933a747798959eeb3a858b79c49cb77_%28page_1%29.jpg",
+    "credit": "拜耳公司（Bayer Company, Inc） · 公有领域，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Bayer_Aspirin_Tin,_12_Tablet_Size_-_DPLA_-_4933a747798959eeb3a858b79c49cb77_(page_1).jpg"
    }
   },
   {
    "n": 3,
    "category": "商业分析",
    "icon": "chart.bar.fill",
-   "title": "还没出价，股价先涨了百分之十三：奥驰亚盯上帝国品牌",
-   "short": "奥驰亚盯上帝国品牌",
-   "hook": "还没有报价，规则却已经启动了倒计时：市场常常先给「可能有人买」定价，标题里的大数字…",
+   "title": "二十六亿美元，买到的是七成五：可口可乐的非洲装瓶商易主",
+   "short": "可口可乐的非洲装瓶商易主",
+   "hook": "二十六亿美元买到的是七成五，不是整个非洲可口可乐体系：控制权与规模已经换手，标的 …",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/London_Stock_Exchange%2C_Paternoster_Square.jpg/330px-London_Stock_Exchange%2C_Paternoster_Square.jpg",
-    "credit": "伦敦证券交易所（London Stock Exchange） · CC BY-SA 3.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:London_Stock_Exchange,_Paternoster_Square.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Johannesburg_Stock_Exchange.jpg/330px-Johannesburg_Stock_Exchange.jpg",
+    "credit": "Andres de Wet · CC BY-SA 3.0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Johannesburg_Stock_Exchange.jpg"
    }
   },
   {
    "n": 4,
    "category": "政治解读",
    "icon": "building.columns.fill",
-   "title": "还不是法律，却先过了一关：以色列要限制总理连任八年",
-   "short": "以色列要限制总理连任八年",
-   "hook": "法案过了第一关，还不等于已经改变谁能当总理；但它也不是一句空话——后面的审议、表决…",
+   "title": "得票最多的政党，为什么还是组不成阁：新西兰正式计票",
+   "short": "新西兰正式计票",
+   "hook": "党票第一，不等于就能组阁。在 MMP 制度里，席次取决于选区和政党两张票；正式结果…",
    "image": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/330px-Knesset_front_side_-_2022.jpg",
-    "credit": "Clema12 · CC BY-SA 4.0，Wikimedia Commons",
-    "source": "https://commons.wikimedia.org/wiki/File:Knesset_front_side_-_2022.jpg"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Beehive_and_Parliament_House_-_Wellington_-_New_Zealand_-_DSC00165.jpg/330px-Beehive_and_Parliament_House_-_Wellington_-_New_Zealand_-_DSC00165.jpg",
+    "credit": "Daderot · CC0，Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Beehive_and_Parliament_House_-_Wellington_-_New_Zealand_-_DSC00165.jpg"
    }
   }
  ],
  "fallback": {
   "image": {
-   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/330px-2015_Swaledale_from_Kisdon_Hill.jpg",
-   "place": "英格兰约克郡斯韦尔代尔",
-   "credit": "Kreuzschnabel · CC BY-SA 3.0，Wikimedia Commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg"
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg/330px-Ahuriri_River_before_sunrise%2C_Canterbury%2C_New_Zealand.jpg",
+   "place": "新西兰阿胡里里河的日出前",
+   "credit": "Michal Klajban · CC BY-SA 4.0，Wikimedia Commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ahuriri_River_before_sunrise,_Canterbury,_New_Zealand.jpg"
   },
-  "line": "行到水穷处，坐看云起时。",
-  "by": "王维《终南别业》"
+  "line": "山不催人，水也不赶路，你可以按自己的速度来。",
+  "by": ""
  },
- "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-27.jpg?v=1795733350",
- "teaser": "还没出价，股价为什么先涨了13%？",
- "teaserPiece": 3,
+ "poster": "https://christiedm.github.io/christie-reading/posters/2026-11-28.jpg?v=1795819465",
+ "teaser": "得票最多的党，为什么组不成阁？",
+ "teaserPiece": 4,
  "url": "https://cursor.com/canvas/store-ea769699-c270-4037-824c-e75265455922/3198bf0b-6206-465b-80da-0c364d86f00e",
  "streak": {
   "current": 0,
